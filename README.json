@@ -93,6 +93,16 @@
     {
       "description": "",
       "items": [],
+      "title": "GitHub Readme Zodiac - seuthootDev"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GitHub Readme Chinese Zodiac - seuthootDev"
+    },
+    {
+      "description": "",
+      "items": [],
       "title": "simple profile generator - arturssmirnovs"
     },
     {
@@ -192,9 +202,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:07:45.847Z",
+    "last_updated": "2026-08-18T02:04:04.067Z",
     "original_repository": "haidang666/awesome-tool-for-readme-profile",
-    "original_repository_sha": "6d9bf6b0626693550ee61183a6934809a15ed342",
+    "original_repository_sha": "b079f1842b621b3b65c7c632c189f2c99b976efd",
     "enhanced_repository": "enhansome/enhansome-tool-for-readme-profile",
     "enhanced_repository_description": null,
     "title": "Awesome Things can add to your profile with stars"
