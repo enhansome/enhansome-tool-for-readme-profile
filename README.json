@@ -1,209 +1,31 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "------------ GITHUB ACTIONS ------------"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "profile-summary-cards - vn7n24fzkq"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "profile_stack Tech stack list - Matt-Gleich"
-    },
-    {
-      "description": "An infographics generator with 30+ plugins and 200+ options to display stats",
-      "items": [],
-      "title": "All github metrics - lowlighter"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Blog post workflow - gautamkrishnar"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Wakatime Weekly Metrics - athul"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Wakatime-stats - anmol098"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Snake game from github user contributions graph - Platane"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GitHub Stats Visualization - jstrieb"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Show recently activities - crazy-max"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Hi there 👋"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "My Badges - a custom badge with GitHub's achievements - antonmedv"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "YouTube Cards - DenverCoder1"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "------------ GENERATIONS TOOLS ------------"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Profile trophy - ryo-ma"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Stackoverflow badge - omidnikrah"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Medium - bxcodec"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Stats card - anuraghazra"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GitHub Readme Zodiac - seuthootDev"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GitHub Readme Chinese Zodiac - seuthootDev"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "simple profile generator - arturssmirnovs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dynamic quote generator for your GitHub readmes - shravan20"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Cardivo card name - satyawikananda"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Capsule render - kyechan99"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GitHub Readme Testimonials - smashah"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Show your Spotify activity - magic-ike"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Show your Spotify playing - kittinan"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Music playing - natemoo-re"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Streak Stats - DenverCoder1"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": ""
-    },
-    {
-      "description": "More info (https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/)",
-      "items": [],
-      "title": "Stack Overflow flair"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Profile Summary - tipsy"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Repository Star History Graph - luca"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Readme Jokes - ABSphreak"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 7910045,
+            "language": "JavaScript",
+            "last_commit": "2026-08-15T01:28:36Z",
+            "owner": "badges",
+            "repo": "shields",
+            "stars": 27076
+          },
+          "title": "Badge generator"
+        }
+      ],
       "title": "------------ TAG BLOCK ------------"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Profile views counter - antonkomarev"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Show npm packages downloads - maddhruv"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Badge generator"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Markdown badge list from shields.io - Ileriayo"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Get gist count - lifeparticle"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:06:19.988Z",
+    "last_updated": "2026-08-19T12:56:18.020Z",
     "original_repository": "haidang666/awesome-tool-for-readme-profile",
+    "original_repository_id": 338493626,
     "original_repository_sha": "b079f1842b621b3b65c7c632c189f2c99b976efd",
     "enhanced_repository": "enhansome/enhansome-tool-for-readme-profile",
     "enhanced_repository_description": null,
