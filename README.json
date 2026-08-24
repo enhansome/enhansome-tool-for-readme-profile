@@ -14,7 +14,7 @@
             "last_commit": "2026-08-21T21:48:56Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27092
+            "stars": 27097
           },
           "title": "Badge generator"
         }
@@ -23,10 +23,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:12:20.693Z",
+    "last_updated": "2026-08-24T02:11:00.320Z",
     "original_repository": "haidang666/awesome-tool-for-readme-profile",
     "original_repository_id": 338493626,
-    "original_repository_sha": "b079f1842b621b3b65c7c632c189f2c99b976efd",
+    "original_repository_sha": "92e958c77cf9c6dddf262470d7fa99d6fb1052de",
     "enhanced_repository": "enhansome/enhansome-tool-for-readme-profile",
     "enhanced_repository_description": null,
     "title": "Awesome Things can add to your profile with stars"
