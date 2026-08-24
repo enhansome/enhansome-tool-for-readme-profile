@@ -9,21 +9,663 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "id": 292074617,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T00:13:02Z",
+            "owner": "vn7n24fzkq",
+            "repo": "github-profile-summary-cards",
+            "stars": 3628
+          },
+          "title": "profile-summary-cards - vn7n24fzkq"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "import_sorter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256888317,
+                "language": "Dart",
+                "last_commit": "2024-03-16T20:19:53Z",
+                "owner": "fluttercommunity",
+                "repo": "import_sorter",
+                "stars": 183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "beta-website",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231663136,
+                "language": "Dart",
+                "last_commit": "2024-12-16T03:44:57Z",
+                "owner": "gleich",
+                "repo": "beta-website",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 277191695,
+            "language": "Rust",
+            "last_commit": "2024-06-17T18:26:55Z",
+            "owner": "gleich",
+            "repo": "profile_stack",
+            "stars": 57
+          },
+          "title": "profile_stack Tech stack list - Matt-Gleich"
+        },
+        {
+          "children": [],
+          "description": "An infographics generator with 30+ plugins and 200+ options to display stats",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 293860197,
+            "language": "JavaScript",
+            "last_commit": "2026-05-29T21:41:23Z",
+            "owner": "lowlighter",
+            "repo": "metrics",
+            "stars": 17100
+          },
+          "title": "All github metrics - lowlighter"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 280830267,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T01:23:11Z",
+            "owner": "gautamkrishnar",
+            "repo": "blog-post-workflow",
+            "stars": 3441
+          },
+          "title": "Blog post workflow - gautamkrishnar"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 278415002,
+            "language": "Python",
+            "last_commit": "2026-02-18T01:33:48Z",
+            "owner": "athul",
+            "repo": "waka-readme",
+            "stars": 1830
+          },
+          "title": "Wakatime Weekly Metrics - athul"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 280882811,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:42:51Z",
+            "owner": "anmol098",
+            "repo": "waka-readme-stats",
+            "stars": 3986
+          },
+          "title": "Wakatime-stats - anmol098"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 279995113,
+            "language": "TypeScript",
+            "last_commit": "2026-04-29T21:44:31Z",
+            "owner": "Platane",
+            "repo": "snk",
+            "stars": 6052
+          },
+          "title": "Snake game from github user contributions graph - Platane"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 287110655,
+            "language": "Zig",
+            "last_commit": "2026-08-24T01:47:29Z",
+            "owner": "jstrieb",
+            "repo": "github-stats",
+            "stars": 3540
+          },
+          "title": "GitHub Stats Visualization - jstrieb"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "crazy-max/goreleaser-xx",
+                      "description": "Cross compilation helper for GoReleaser (1 day ago) ...",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "id": 344632258,
+                        "language": "Go",
+                        "last_commit": "2023-05-05T16:15:30Z",
+                        "owner": "crazy-max",
+                        "repo": "goreleaser-xx",
+                        "stars": 33
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "👷 Check out what I'm currently working on"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "crazy-max/docker-n8n",
+                      "description": "n8n Docker image based on Alpine Linux ...",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "id": 354697986,
+                        "language": "Dockerfile",
+                        "last_commit": "2024-05-01T18:20:12Z",
+                        "owner": "crazy-max",
+                        "repo": "docker-n8n",
+                        "stars": 19
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "👨‍💻 Repositories I created recently"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "crazy-max/goreleaser-xx",
+                      "description": "(v0.162.0-r0, 1 day ago) - Cross compilation helper for GoReleaser ...",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "id": 344632258,
+                        "language": "Go",
+                        "last_commit": "2023-05-05T16:15:30Z",
+                        "owner": "crazy-max",
+                        "repo": "goreleaser-xx",
+                        "stars": 33
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "🚀 Latest releases I've contributed to"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Hi there 👋"
+            }
+          ],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 278751076,
+            "language": null,
+            "last_commit": "2026-08-23T01:21:45Z",
+            "owner": "crazy-max",
+            "repo": "crazy-max",
+            "stars": 12
+          },
+          "title": "Show recently activities - crazy-max"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 700386426,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T12:53:10Z",
+            "owner": "my-badges",
+            "repo": "my-badges",
+            "stars": 223
+          },
+          "title": "My Badges - a custom badge with GitHub's achievements - antonmedv"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 534051116,
+            "language": "Python",
+            "last_commit": "2026-08-24T10:03:16Z",
+            "owner": "DenverCoder1",
+            "repo": "github-readme-youtube-cards",
+            "stars": 282
+          },
+          "title": "YouTube Cards - DenverCoder1"
+        }
+      ],
+      "title": "------------ GITHUB ACTIONS ------------"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 289523918,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T00:05:17Z",
+            "owner": "ryo-ma",
+            "repo": "github-profile-trophy",
+            "stars": 6637
+          },
+          "title": "Profile trophy - ryo-ma"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 283610329,
+            "language": "JavaScript",
+            "last_commit": "2024-02-21T19:52:52Z",
+            "owner": "omidnikrah",
+            "repo": "github-readme-stackoverflow",
+            "stars": 165
+          },
+          "title": "Stackoverflow badge - omidnikrah"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1344066543,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T22:56:57Z",
+            "owner": "seuthootDev",
+            "repo": "terminal-shields",
+            "stars": 0
+          },
+          "title": "terminal-shields - seuthootDev"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 282679629,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T21:33:24Z",
+            "owner": "bxcodec",
+            "repo": "github-readme-medium-recent-article",
+            "stars": 74
+          },
+          "title": "Medium - bxcodec"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 278335273,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T00:50:25Z",
+            "owner": "anuraghazra",
+            "repo": "github-readme-stats",
+            "stars": 79826
+          },
+          "title": "Stats card - anuraghazra"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1322542016,
+            "language": "JavaScript",
+            "last_commit": "2026-08-22T09:08:46Z",
+            "owner": "seuthootDev",
+            "repo": "github-readme-zodiac",
+            "stars": 0
+          },
+          "title": "GitHub Readme Zodiac - seuthootDev"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1322637759,
+            "language": "JavaScript",
+            "last_commit": "2026-08-22T09:53:21Z",
+            "owner": "seuthootDev",
+            "repo": "github-readme-chinese-zodiac",
+            "stars": 0
+          },
+          "title": "GitHub Readme Chinese Zodiac - seuthootDev"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1183098098,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T16:39:23Z",
+            "owner": "seuthootDev",
+            "repo": "github-readme-insight-terminal-ascii",
+            "stars": 6
+          },
+          "title": "GitHub README Insight Terminal ASCII - seuthootDev"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 280809092,
+            "language": "JavaScript",
+            "last_commit": "2023-11-20T18:47:17Z",
+            "owner": "arturssmirnovs",
+            "repo": "github-profile-readme-generator",
+            "stars": 902
+          },
+          "title": "simple profile generator - arturssmirnovs"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 311138004,
+            "language": "JavaScript",
+            "last_commit": "2025-09-29T09:33:50Z",
+            "owner": "zhravan",
+            "repo": "github-readme-quotes",
+            "stars": 307
+          },
+          "title": "Dynamic quote generator for your GitHub readmes - shravan20"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 313360710,
+            "language": "TypeScript",
+            "last_commit": "2026-06-06T15:32:25Z",
+            "owner": "satyawikananda",
+            "repo": "cardivo",
+            "stars": 93
+          },
+          "title": "Cardivo card name - satyawikananda"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 280360410,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T05:05:08Z",
+            "owner": "kyechan99",
+            "repo": "capsule-render",
+            "stars": 1807
+          },
+          "title": "Capsule render - kyechan99"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 292063869,
+            "language": "HTML",
+            "last_commit": "2020-09-04T12:00:21Z",
+            "owner": "smashah",
+            "repo": "github-readme-testimonials",
+            "stars": 5
+          },
+          "title": "GitHub Readme Testimonials - smashah"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 532352017,
+            "language": "TypeScript",
+            "last_commit": "2024-07-28T01:39:02Z",
+            "owner": "magic-ike",
+            "repo": "spotify-data-card",
+            "stars": 80
+          },
+          "title": "Show your Spotify activity - magic-ike"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 280877685,
+            "language": "Python",
+            "last_commit": "2026-07-21T11:11:53Z",
+            "owner": "kittinan",
+            "repo": "spotify-github-profile",
+            "stars": 2205
+          },
+          "title": "Show your Spotify playing - kittinan"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 267873197,
+            "language": "TypeScript",
+            "last_commit": "2026-05-18T16:24:03Z",
+            "owner": "natemoo-re",
+            "repo": "natemoo-re",
+            "stars": 486
+          },
+          "title": "Music playing - natemoo-re"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 307018731,
+            "language": "PHP",
+            "last_commit": "2026-08-06T07:25:41Z",
+            "owner": "DenverCoder1",
+            "repo": "github-readme-streak-stats",
+            "stars": 7100
+          },
+          "title": "Streak Stats - DenverCoder1"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 113752225,
+            "language": "Vue",
+            "last_commit": "2026-02-22T13:17:02Z",
+            "owner": "tipsy",
+            "repo": "profile-summary-for-github",
+            "stars": 19946
+          },
+          "title": "Profile Summary - tipsy"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 736389128,
+            "language": "JavaScript",
+            "last_commit": "2026-03-17T12:29:09Z",
+            "owner": "lucabubi",
+            "repo": "star-history",
+            "stars": 9
+          },
+          "title": "Repository Star History Graph - luca"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 283751099,
+            "language": "JavaScript",
+            "last_commit": "2025-02-02T20:17:49Z",
+            "owner": "ABSphreak",
+            "repo": "readme-jokes",
+            "stars": 712
+          },
+          "title": "Readme Jokes - ABSphreak"
+        }
+      ],
+      "title": "------------ GENERATIONS TOOLS ------------"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 278929867,
+            "language": "PHP",
+            "last_commit": "2026-01-26T03:53:09Z",
+            "owner": "antonkomarev",
+            "repo": "github-profile-views-counter",
+            "stars": 5013
+          },
+          "title": "Profile views counter - antonkomarev"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 280583219,
+            "language": "JavaScript",
+            "last_commit": "2024-06-14T01:14:52Z",
+            "owner": "maddhruv",
+            "repo": "github-readme-npm-downloads",
+            "stars": 24
+          },
+          "title": "Show npm packages downloads - maddhruv"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
             "id": 7910045,
             "language": "JavaScript",
             "last_commit": "2026-08-21T21:48:56Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27097
+            "stars": 27098
           },
           "title": "Badge generator"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 280898258,
+            "language": "SCSS",
+            "last_commit": "2026-08-11T03:09:47Z",
+            "owner": "Ileriayo",
+            "repo": "markdown-badges",
+            "stars": 16980
+          },
+          "title": "Markdown badge list from shields.io - Ileriayo"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 285453412,
+            "language": "Ruby",
+            "last_commit": "2024-06-14T12:50:55Z",
+            "owner": "lifeparticle",
+            "repo": "Gist-Count",
+            "stars": 11
+          },
+          "title": "Get gist count - lifeparticle"
         }
       ],
       "title": "------------ TAG BLOCK ------------"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:11:00.320Z",
+    "last_updated": "2026-08-24T14:29:44.805Z",
     "original_repository": "haidang666/awesome-tool-for-readme-profile",
     "original_repository_id": 338493626,
     "original_repository_sha": "92e958c77cf9c6dddf262470d7fa99d6fb1052de",
