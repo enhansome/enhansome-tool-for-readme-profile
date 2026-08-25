@@ -14,7 +14,7 @@
             "last_commit": "2026-08-07T00:13:02Z",
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3628
+            "stars": 3629
           },
           "title": "profile-summary-cards - vn7n24fzkq"
         },
@@ -75,7 +75,7 @@
             "last_commit": "2026-05-29T21:41:23Z",
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17100
+            "stars": 17101
           },
           "title": "All github metrics - lowlighter"
         },
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 287110655,
             "language": "Zig",
-            "last_commit": "2026-08-24T01:47:29Z",
+            "last_commit": "2026-08-25T01:42:15Z",
             "owner": "jstrieb",
             "repo": "github-stats",
             "stars": 3540
@@ -236,7 +236,7 @@
             "archived": false,
             "id": 278751076,
             "language": null,
-            "last_commit": "2026-08-23T01:21:45Z",
+            "last_commit": "2026-08-25T01:17:01Z",
             "owner": "crazy-max",
             "repo": "crazy-max",
             "stars": 12
@@ -266,7 +266,7 @@
             "archived": false,
             "id": 534051116,
             "language": "Python",
-            "last_commit": "2026-08-24T10:03:16Z",
+            "last_commit": "2026-08-24T21:16:06Z",
             "owner": "DenverCoder1",
             "repo": "github-readme-youtube-cards",
             "stars": 282
@@ -350,7 +350,7 @@
             "last_commit": "2026-07-31T00:50:25Z",
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79826
+            "stars": 79828
           },
           "title": "Stats card - anuraghazra"
         },
@@ -530,7 +530,7 @@
             "last_commit": "2026-08-06T07:25:41Z",
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7100
+            "stars": 7102
           },
           "title": "Streak Stats - DenverCoder1"
         },
@@ -626,7 +626,7 @@
             "last_commit": "2026-08-21T21:48:56Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27098
+            "stars": 27104
           },
           "title": "Badge generator"
         },
@@ -641,7 +641,7 @@
             "last_commit": "2026-08-11T03:09:47Z",
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 16980
+            "stars": 16981
           },
           "title": "Markdown badge list from shields.io - Ileriayo"
         },
@@ -665,7 +665,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:44.805Z",
+    "last_updated": "2026-08-25T02:06:32.445Z",
     "original_repository": "haidang666/awesome-tool-for-readme-profile",
     "original_repository_id": 338493626,
     "original_repository_sha": "92e958c77cf9c6dddf262470d7fa99d6fb1052de",
