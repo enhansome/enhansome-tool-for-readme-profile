@@ -14,7 +14,7 @@
 | [![Dart](https://img.shields.io/static/v1?label=\&message=Dart\&color=52C0F2\&logo=dart\&logoColor=white)](https://dart.dev/)             | [![import\_sorter](https://img.shields.io/static/v1?label=\&message=import_sorter\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/fluttercommunity/import_sorter) ⭐ 183 \| 🐛 31 \| 🌐 Dart \| 📅 2024-03-16 [![Personal-Site](https://img.shields.io/static/v1?label=\&message=Personal-Site\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/Personal-Site) ⭐ 12 \| 🐛 0 \| 🌐 Dart \| 📅 2024-12-16 [![auralite-mobile](https://img.shields.io/static/v1?label=\&message=auralite-mobile%20%28WIP%29\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/auralite-mobile) ⭐ 8 \| 🐛 1 \| 🌐 Dart \| 📅 2020-08-10 |
 | [![Flutter](https://img.shields.io/static/v1?label=\&message=Flutter\&color=52C0F2\&logo=flutter\&logoColor=white)](https://flutter.dev/) | [![Personal-Site](https://img.shields.io/static/v1?label=\&message=Personal-Site\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/Personal-Site) ⭐ 12 \| 🐛 0 \| 🌐 Dart \| 📅 2024-12-16 [![auralite-mobile](https://img.shields.io/static/v1?label=\&message=auralite-mobile%20%28WIP%29\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/auralite-mobile) ⭐ 8 \| 🐛 1 \| 🌐 Dart \| 📅 2020-08-10                                                                                                                                                                                                                                                  |
 
-### [All github metrics](https://github.com/lowlighter/metrics) ⭐ 17,101 | 🐛 66 | 🌐 JavaScript | 📅 2026-05-29 -  [lowlighter](https://github.com/lowlighter)
+### [All github metrics](https://github.com/lowlighter/metrics) ⭐ 17,100 | 🐛 66 | 🌐 JavaScript | 📅 2026-05-29 -  [lowlighter](https://github.com/lowlighter)
 
 An infographics generator with 30+ plugins and 200+ options to display stats
 
@@ -43,11 +43,11 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 
 ![preview](https://user-images.githubusercontent.com/8397274/87243943-e6b45c00-c457-11ea-94c9-2aa0bf241be8.png)
 
-### [Wakatime-stats](https://github.com/anmol098/waka-readme-stats) ⭐ 3,986 | 🐛 66 | 🌐 Python | 📅 2026-08-24 - [anmol098](https://github.com/anmol098)
+### [Wakatime-stats](https://github.com/anmol098/waka-readme-stats) ⭐ 3,986 | 🐛 67 | 🌐 Python | 📅 2026-08-24 - [anmol098](https://github.com/anmol098)
 
 ![preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
 
-### [Snake game from github user contributions graph](https://github.com/Platane/snk) ⭐ 6,052 | 🐛 4 | 🌐 TypeScript | 📅 2026-04-29 - [Platane](https://github.com/Platane/)
+### [Snake game from github user contributions graph](https://github.com/Platane/snk) ⭐ 6,055 | 🐛 4 | 🌐 TypeScript | 📅 2026-04-29 - [Platane](https://github.com/Platane/)
 
 ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
@@ -127,9 +127,9 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0">
 
-### [Stats card](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,828 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31 - [anuraghazra](https://github.com/anuraghazra/)
+### [Stats card](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,829 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31 - [anuraghazra](https://github.com/anuraghazra/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,828 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,829 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31
 
 ### [GitHub Readme Zodiac](https://github.com/seuthootDev/github-readme-zodiac) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-22 - [seuthootDev](https://github.com/seuthootDev/)
 
@@ -139,9 +139,9 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 
 [![Chinese Zodiac card](https://github-readme-chinese-zodiac.vercel.app/api/card?username=seuthootDev\&birthdate=1995-04-24\&width=360\&glow=1)](https://github.com/seuthootDev/github-readme-chinese-zodiac) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-22
 
-### [GitHub README Insight Terminal ASCII](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-23 - [seuthootDev](https://github.com/seuthootDev/)
+### [GitHub README Insight Terminal ASCII](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-23 - [seuthootDev](https://github.com/seuthootDev/)
 
-[![Contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev\&theme=mac\&scale=0.6)](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-23
+[![Contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev\&theme=mac\&scale=0.6)](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-23
 
 ### [simple profile generator](https://github.com/arturssmirnovs/github-profile-readme-generator) ⭐ 902 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-20 - [arturssmirnovs](https://github.com/arturssmirnovs/)
 
@@ -209,7 +209,7 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 <a href="https://stackexchange.com/users/7551592"><img src="https://stackexchange.com/users/flair/7551592.png" width="208" height="58" alt="profile for Felix on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Felix on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>\
 More info (<https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/>)
 
-### [Profile Summary](https://github.com/tipsy/profile-summary-for-github) ⭐ 19,946 | 🐛 23 | 🌐 Vue | 📅 2026-02-22 - [tipsy](https://github.com/tipsy/)
+### [Profile Summary](https://github.com/tipsy/profile-summary-for-github) ⭐ 19,947 | 🐛 23 | 🌐 Vue | 📅 2026-02-22 - [tipsy](https://github.com/tipsy/)
 
 ![](https://user-images.githubusercontent.com/1521451/34072014-4451dbf6-e280-11e7-90a7-32ad1f313541.PNG)
 
@@ -231,7 +231,7 @@ More info (<https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/>)
 
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
 
-### [Badge generator](https://github.com/badges/shields) ⭐ 27,104 | 🐛 306 | 🌐 JavaScript | 📅 2026-08-21
+### [Badge generator](https://github.com/badges/shields) ⭐ 27,105 | 🐛 306 | 🌐 JavaScript | 📅 2026-08-21
 
 ![](https://shields.io/badge/style-plastic-green?logo=appveyor\&style=plastic) ![](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)\
 ![](https://shields.io/badge/-yellowgreen-yellowgreen) ![](https://shields.io/badge/-orange-orange) ![](https://shields.io/badge/-blueviolet-blueviolet)

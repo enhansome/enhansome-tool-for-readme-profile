@@ -75,7 +75,7 @@
             "last_commit": "2026-05-29T21:41:23Z",
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17101
+            "stars": 17100
           },
           "title": "All github metrics - lowlighter"
         },
@@ -135,7 +135,7 @@
             "last_commit": "2026-04-29T21:44:31Z",
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6052
+            "stars": 6055
           },
           "title": "Snake game from github user contributions graph - Platane"
         },
@@ -350,7 +350,7 @@
             "last_commit": "2026-07-31T00:50:25Z",
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79828
+            "stars": 79829
           },
           "title": "Stats card - anuraghazra"
         },
@@ -395,7 +395,7 @@
             "last_commit": "2026-08-23T16:39:23Z",
             "owner": "seuthootDev",
             "repo": "github-readme-insight-terminal-ascii",
-            "stars": 6
+            "stars": 7
           },
           "title": "GitHub README Insight Terminal ASCII - seuthootDev"
         },
@@ -545,7 +545,7 @@
             "last_commit": "2026-02-22T13:17:02Z",
             "owner": "tipsy",
             "repo": "profile-summary-for-github",
-            "stars": 19946
+            "stars": 19947
           },
           "title": "Profile Summary - tipsy"
         },
@@ -626,7 +626,7 @@
             "last_commit": "2026-08-21T21:48:56Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27104
+            "stars": 27105
           },
           "title": "Badge generator"
         },
@@ -665,7 +665,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:06:32.445Z",
+    "last_updated": "2026-08-25T06:23:25.710Z",
     "original_repository": "haidang666/awesome-tool-for-readme-profile",
     "original_repository_id": 338493626,
     "original_repository_sha": "92e958c77cf9c6dddf262470d7fa99d6fb1052de",
