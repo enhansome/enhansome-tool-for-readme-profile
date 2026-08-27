@@ -135,7 +135,7 @@
             "last_commit": "2026-04-29T21:44:31Z",
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6063
+            "stars": 6062
           },
           "title": "Snake game from github user contributions graph - Platane"
         },
@@ -350,7 +350,7 @@
             "last_commit": "2026-07-31T00:50:25Z",
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79837
+            "stars": 79840
           },
           "title": "Stats card - anuraghazra"
         },
@@ -641,7 +641,7 @@
             "last_commit": "2026-08-11T03:09:47Z",
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 16989
+            "stars": 16990
           },
           "title": "Markdown badge list from shields.io - Ileriayo"
         },
@@ -665,9 +665,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:29:05.437Z",
-    "original_repository": "haidang666/awesome-tool-for-readme-profile",
-    "original_repository_id": 338493626,
+    "last_updated": "2026-08-27T12:10:51.609Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 338493626,
+      "language": null,
+      "last_commit": "2026-08-24T00:10:47Z",
+      "owner": "haidang666",
+      "repo": "awesome-tool-for-readme-profile",
+      "stars": 318
+    },
     "original_repository_sha": "92e958c77cf9c6dddf262470d7fa99d6fb1052de",
     "enhanced_repository": "enhansome/enhansome-tool-for-readme-profile",
     "enhanced_repository_description": null,
