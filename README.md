@@ -2,9 +2,9 @@
 
 ## ------------ GITHUB ACTIONS ------------
 
-### [profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,632 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-07 - [vn7n24fzkq](https://github.com/vn7n24fzkq/)
+### [profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,634 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-07 - [vn7n24fzkq](https://github.com/vn7n24fzkq/)
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,632 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-07\
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,634 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-07\
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
 
 ### [profile\_stack](https://github.com/Matt-Gleich/profile_stack) ⭐ 57 | 🐛 1 | 🌐 Rust | 📅 2024-06-17 Tech stack list - [Matt-Gleich](https://github.com/Matt-Gleich/)
@@ -14,7 +14,7 @@
 | [![Dart](https://img.shields.io/static/v1?label=\&message=Dart\&color=52C0F2\&logo=dart\&logoColor=white)](https://dart.dev/)             | [![import\_sorter](https://img.shields.io/static/v1?label=\&message=import_sorter\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/fluttercommunity/import_sorter) ⭐ 183 \| 🐛 31 \| 🌐 Dart \| 📅 2024-03-16 [![Personal-Site](https://img.shields.io/static/v1?label=\&message=Personal-Site\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/Personal-Site) ⭐ 12 \| 🐛 0 \| 🌐 Dart \| 📅 2024-12-16 [![auralite-mobile](https://img.shields.io/static/v1?label=\&message=auralite-mobile%20%28WIP%29\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/auralite-mobile) ⭐ 8 \| 🐛 1 \| 🌐 Dart \| 📅 2020-08-10 |
 | [![Flutter](https://img.shields.io/static/v1?label=\&message=Flutter\&color=52C0F2\&logo=flutter\&logoColor=white)](https://flutter.dev/) | [![Personal-Site](https://img.shields.io/static/v1?label=\&message=Personal-Site\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/Personal-Site) ⭐ 12 \| 🐛 0 \| 🌐 Dart \| 📅 2024-12-16 [![auralite-mobile](https://img.shields.io/static/v1?label=\&message=auralite-mobile%20%28WIP%29\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/auralite-mobile) ⭐ 8 \| 🐛 1 \| 🌐 Dart \| 📅 2020-08-10                                                                                                                                                                                                                                                  |
 
-### [All github metrics](https://github.com/lowlighter/metrics) ⭐ 17,103 | 🐛 66 | 🌐 JavaScript | 📅 2026-05-29 -  [lowlighter](https://github.com/lowlighter)
+### [All github metrics](https://github.com/lowlighter/metrics) ⭐ 17,113 | 🐛 67 | 🌐 JavaScript | 📅 2026-05-29 -  [lowlighter](https://github.com/lowlighter)
 
 An infographics generator with 30+ plugins and 200+ options to display stats
 
@@ -43,15 +43,15 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 
 ![preview](https://user-images.githubusercontent.com/8397274/87243943-e6b45c00-c457-11ea-94c9-2aa0bf241be8.png)
 
-### [Wakatime-stats](https://github.com/anmol098/waka-readme-stats) ⭐ 3,985 | 🐛 68 | 🌐 Python | 📅 2026-08-24 - [anmol098](https://github.com/anmol098)
+### [Wakatime-stats](https://github.com/anmol098/waka-readme-stats) ⭐ 3,984 | 🐛 68 | 🌐 Python | 📅 2026-08-24 - [anmol098](https://github.com/anmol098)
 
 ![preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
 
-### [Snake game from github user contributions graph](https://github.com/Platane/snk) ⭐ 6,058 | 🐛 4 | 🌐 TypeScript | 📅 2026-04-29 - [Platane](https://github.com/Platane/)
+### [Snake game from github user contributions graph](https://github.com/Platane/snk) ⭐ 6,063 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-29 - [Platane](https://github.com/Platane/)
 
 ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
-### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) ⭐ 3,540 | 🐛 23 | 🌐 Zig | 📅 2026-08-26 - [jstrieb](https://github.com/jstrieb)
+### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) ⭐ 3,542 | 🐛 23 | 🌐 Zig | 📅 2026-08-27 - [jstrieb](https://github.com/jstrieb)
 
 <a href="https://github.com/jstrieb/github-stats">
 
@@ -82,7 +82,7 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 * [Nick Sweeting](https://github.com/pirate) (4 days ago)
   ...
 
-### [My Badges - a custom badge with GitHub's achievements](https://github.com/my-badges/my-badges) ⭐ 223 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-12 -  [antonmedv](https://github.com/antonmedv)
+### [My Badges - a custom badge with GitHub's achievements](https://github.com/my-badges/my-badges) ⭐ 224 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-12 -  [antonmedv](https://github.com/antonmedv)
 
 <a href="my-badges/a-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a> <a href="my-badges/ab-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a> <a href="my-badges/stars-100.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-100.png?raw=true" alt="I collected 100 stars." title="I collected 100 stars." width="64"></a> <a href="my-badges/stars-500.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-500.png?raw=true" alt="I collected 500 stars." title="I collected 500 stars." width="64"></a> <a href="my-badges/stars-1000.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-1000.png?raw=true" alt="I collected 1000 stars." title="I collected 1000 stars." width="64"></a> <a href="my-badges/stars-2000.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-2000.png?raw=true" alt="I collected 2000 stars." title="I collected 2000 stars." width="64"></a> <a href="my-badges/stars-5000.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-5000.png?raw=true" alt="I collected 5000 stars." title="I collected 5000 stars." width="64"></a>
 
@@ -109,15 +109,15 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 
 ## ------------ GENERATIONS TOOLS ------------
 
-### [Profile trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,637 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-25 - [ryo-ma](https://github.com/ryo-ma/)
+### [Profile trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,638 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-25 - [ryo-ma](https://github.com/ryo-ma/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,637 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-25
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,638 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-25
 
 ### [Stackoverflow badge](https://github.com/omidnikrah/github-readme-stackoverflow) ⭐ 165 | 🐛 5 | 🌐 JavaScript | 📅 2024-02-21 - [omidnikrah](https://github.com/omidnikrah/)
 
 ![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)
 
-### [terminal-shields](https://github.com/seuthootDev/terminal-shields) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-23 - [seuthootDev](https://github.com/seuthootDev/)
+### [terminal-shields](https://github.com/seuthootDev/terminal-shields) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-27 - [seuthootDev](https://github.com/seuthootDev/)
 
 ![build](https://terminal-shields.vercel.app/badge/build-passing-brightgreen)
 ![qt](https://terminal-shields.vercel.app/badge/qml-41CD52?logo=qt\&theme=amber)
@@ -127,9 +127,9 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0">
 
-### [Stats card](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,831 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31 - [anuraghazra](https://github.com/anuraghazra/)
+### [Stats card](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,837 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31 - [anuraghazra](https://github.com/anuraghazra/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,831 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,837 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31
 
 ### [GitHub Readme Zodiac](https://github.com/seuthootDev/github-readme-zodiac) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-22 - [seuthootDev](https://github.com/seuthootDev/)
 
@@ -139,23 +139,23 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 
 [![Chinese Zodiac card](https://github-readme-chinese-zodiac.vercel.app/api/card?username=seuthootDev\&birthdate=1995-04-24\&width=360\&glow=1)](https://github.com/seuthootDev/github-readme-chinese-zodiac) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-22
 
-### [GitHub README Insight Terminal ASCII](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-23 - [seuthootDev](https://github.com/seuthootDev/)
+### [GitHub README Insight Terminal ASCII](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-27 - [seuthootDev](https://github.com/seuthootDev/)
 
-[![Contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev\&theme=mac\&scale=0.6)](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-23
+[![Contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev\&theme=mac\&scale=0.6)](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-27
 
 ### [simple profile generator](https://github.com/arturssmirnovs/github-profile-readme-generator) ⭐ 902 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-20 - [arturssmirnovs](https://github.com/arturssmirnovs/)
 
 ![Github readme generator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/gif.gif?v=123)
 
-### [Dynamic quote generator for your GitHub readmes](https://github.com/shravan20/github-readme-quotes) ⭐ 307 | 🐛 48 | 🌐 JavaScript | 📅 2025-09-29 - [shravan20](https://github.com/shravan20/)
+### [Dynamic quote generator for your GitHub readmes](https://github.com/shravan20/github-readme-quotes) ⭐ 307 | 🐛 49 | 🌐 JavaScript | 📅 2025-09-29 - [shravan20](https://github.com/shravan20/)
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
-### [Cardivo card name](https://github.com/satyawikananda/cardivo) ⭐ 93 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-06 - [satyawikananda](https://github.com/satyawikananda/)
+### [Cardivo card name](https://github.com/satyawikananda/cardivo) ⭐ 94 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-06 - [satyawikananda](https://github.com/satyawikananda/)
 
 ![Satya wikananda's card name](https://cardivo.vercel.app/api?name=Satya%20Wikananda\&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2019%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B\&image=https://pbs.twimg.com/profile_images/1295263306731536385/lSqa7QG7_400x400.jpg\&backgroundColor=%23ecf0f1\&instagram=satyawikananda\&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda\&github=satyawikananda\&twitter=satya_wikananda\&pattern=leaf\&colorPattern=%23eaeaea)
 
-### [Capsule render](https://github.com/kyechan99/capsule-render) ⭐ 1,807 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-05 - [kyechan99](https://github.com/kyechan99)
+### [Capsule render](https://github.com/kyechan99/capsule-render) ⭐ 1,808 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-05 - [kyechan99](https://github.com/kyechan99)
 
 ![header](https://capsule-render.vercel.app/api?type=waving\&color=auto\&height=300\&section=header\&text=capsule%20render\&fontSize=90\&animation=fadeIn\&fontAlignY=38\&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!\&descAlignY=51\&descAlign=62)
 
@@ -169,7 +169,7 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 
 ![preview](https://raw.githubusercontent.com/magic-ike/spotify-data-card/master/docs/basic.svg)
 
-### [Show your Spotify playing](https://github.com/kittinan/spotify-github-profile) ⭐ 2,207 | 🐛 20 | 🌐 Python | 📅 2026-07-21 - [kittinan](https://github.com/kittinan/)
+### [Show your Spotify playing](https://github.com/kittinan/spotify-github-profile) ⭐ 2,208 | 🐛 20 | 🌐 Python | 📅 2026-07-21 - [kittinan](https://github.com/kittinan/)
 
 ![review](https://raw.githubusercontent.com/kittinan/spotify-github-profile/716a50d2d70dc32f034d30c3e544141a4f1ddec0/img/example.svg)
 
@@ -200,9 +200,9 @@ An infographics generator with 30+ plugins and 200+ options to display stats
   </tbody>
 </table>  
 
-### [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,106 | 🐛 77 | 🌐 PHP | 📅 2026-08-06 - [DenverCoder1](https://github.com/DenverCoder1/)
+### [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,107 | 🐛 77 | 🌐 PHP | 📅 2026-08-06 - [DenverCoder1](https://github.com/DenverCoder1/)
 
-### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1\&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,106 | 🐛 77 | 🌐 PHP | 📅 2026-08-06
+### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1\&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,107 | 🐛 77 | 🌐 PHP | 📅 2026-08-06
 
 ### [Stack Overflow flair](https://stackoverflow.com/users/flair)
 
@@ -217,13 +217,13 @@ More info (<https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/>)
 
 ![star-history](https://api.lucabubi.me/chart?username=mdn\&repository=js-examples\&color=violet)
 
-### [Readme Jokes](https://github.com/ABSphreak/readme-jokes) ⭐ 712 | 🐛 15 | 🌐 JavaScript | 📅 2025-02-02 - [ABSphreak](https://github.com/ABSphreak)
+### [Readme Jokes](https://github.com/ABSphreak/readme-jokes) ⭐ 711 | 🐛 15 | 🌐 JavaScript | 📅 2025-02-02 - [ABSphreak](https://github.com/ABSphreak)
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ## ------------ TAG BLOCK ------------
 
-### [Profile views counter](https://github.com/antonkomarev/github-profile-views-counter) ⭐ 5,014 | 🐛 12 | 🌐 PHP | 📅 2026-01-26 - [antonkomarev](https://github.com/antonkomarev/)
+### [Profile views counter](https://github.com/antonkomarev/github-profile-views-counter) ⭐ 5,015 | 🐛 12 | 🌐 PHP | 📅 2026-01-26 - [antonkomarev](https://github.com/antonkomarev/)
 
 ![](https://komarev.com/ghpvc/?username=haidang666\&color=blue)
 
@@ -231,12 +231,12 @@ More info (<https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/>)
 
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
 
-### [Badge generator](https://github.com/badges/shields) ⭐ 27,114 | 🐛 306 | 🌐 JavaScript | 📅 2026-08-21
+### [Badge generator](https://github.com/badges/shields) ⭐ 27,123 | 🐛 306 | 🌐 JavaScript | 📅 2026-08-21
 
 ![](https://shields.io/badge/style-plastic-green?logo=appveyor\&style=plastic) ![](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)\
 ![](https://shields.io/badge/-yellowgreen-yellowgreen) ![](https://shields.io/badge/-orange-orange) ![](https://shields.io/badge/-blueviolet-blueviolet)
 
-### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) ⭐ 16,982 | 🐛 0 | 🌐 SCSS | 📅 2026-08-11 - [Ileriayo](https://github.com/Ileriayo)
+### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) ⭐ 16,989 | 🐛 0 | 🌐 SCSS | 📅 2026-08-11 - [Ileriayo](https://github.com/Ileriayo)
 
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />  <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
 
@@ -246,4 +246,4 @@ More info (<https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

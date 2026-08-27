@@ -14,7 +14,7 @@
             "last_commit": "2026-08-07T00:13:02Z",
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3632
+            "stars": 3634
           },
           "title": "profile-summary-cards - vn7n24fzkq"
         },
@@ -75,7 +75,7 @@
             "last_commit": "2026-05-29T21:41:23Z",
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17103
+            "stars": 17113
           },
           "title": "All github metrics - lowlighter"
         },
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-24T13:42:51Z",
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3985
+            "stars": 3984
           },
           "title": "Wakatime-stats - anmol098"
         },
@@ -135,7 +135,7 @@
             "last_commit": "2026-04-29T21:44:31Z",
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6058
+            "stars": 6063
           },
           "title": "Snake game from github user contributions graph - Platane"
         },
@@ -147,10 +147,10 @@
             "archived": false,
             "id": 287110655,
             "language": "Zig",
-            "last_commit": "2026-08-26T01:48:09Z",
+            "last_commit": "2026-08-27T08:48:30Z",
             "owner": "jstrieb",
             "repo": "github-stats",
-            "stars": 3540
+            "stars": 3542
           },
           "title": "GitHub Stats Visualization - jstrieb"
         },
@@ -254,7 +254,7 @@
             "last_commit": "2026-08-12T12:53:10Z",
             "owner": "my-badges",
             "repo": "my-badges",
-            "stars": 223
+            "stars": 224
           },
           "title": "My Badges - a custom badge with GitHub's achievements - antonmedv"
         },
@@ -290,7 +290,7 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6637
+            "stars": 6638
           },
           "title": "Profile trophy - ryo-ma"
         },
@@ -317,7 +317,7 @@
             "archived": false,
             "id": 1344066543,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T22:56:57Z",
+            "last_commit": "2026-08-27T02:18:03Z",
             "owner": "seuthootDev",
             "repo": "terminal-shields",
             "stars": 0
@@ -350,7 +350,7 @@
             "last_commit": "2026-07-31T00:50:25Z",
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79831
+            "stars": 79837
           },
           "title": "Stats card - anuraghazra"
         },
@@ -392,10 +392,10 @@
             "archived": false,
             "id": 1183098098,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T16:39:23Z",
+            "last_commit": "2026-08-27T04:05:51Z",
             "owner": "seuthootDev",
             "repo": "github-readme-insight-terminal-ascii",
-            "stars": 7
+            "stars": 8
           },
           "title": "GitHub README Insight Terminal ASCII - seuthootDev"
         },
@@ -440,7 +440,7 @@
             "last_commit": "2026-06-06T15:32:25Z",
             "owner": "satyawikananda",
             "repo": "cardivo",
-            "stars": 93
+            "stars": 94
           },
           "title": "Cardivo card name - satyawikananda"
         },
@@ -455,7 +455,7 @@
             "last_commit": "2026-08-05T05:05:08Z",
             "owner": "kyechan99",
             "repo": "capsule-render",
-            "stars": 1807
+            "stars": 1808
           },
           "title": "Capsule render - kyechan99"
         },
@@ -500,7 +500,7 @@
             "last_commit": "2026-07-21T11:11:53Z",
             "owner": "kittinan",
             "repo": "spotify-github-profile",
-            "stars": 2207
+            "stars": 2208
           },
           "title": "Show your Spotify playing - kittinan"
         },
@@ -530,7 +530,7 @@
             "last_commit": "2026-08-06T07:25:41Z",
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7106
+            "stars": 7107
           },
           "title": "Streak Stats - DenverCoder1"
         },
@@ -575,7 +575,7 @@
             "last_commit": "2025-02-02T20:17:49Z",
             "owner": "ABSphreak",
             "repo": "readme-jokes",
-            "stars": 712
+            "stars": 711
           },
           "title": "Readme Jokes - ABSphreak"
         }
@@ -596,7 +596,7 @@
             "last_commit": "2026-01-26T03:53:09Z",
             "owner": "antonkomarev",
             "repo": "github-profile-views-counter",
-            "stars": 5014
+            "stars": 5015
           },
           "title": "Profile views counter - antonkomarev"
         },
@@ -626,7 +626,7 @@
             "last_commit": "2026-08-21T21:48:56Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27114
+            "stars": 27123
           },
           "title": "Badge generator"
         },
@@ -641,7 +641,7 @@
             "last_commit": "2026-08-11T03:09:47Z",
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 16982
+            "stars": 16989
           },
           "title": "Markdown badge list from shields.io - Ileriayo"
         },
@@ -665,7 +665,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:12:19.837Z",
+    "last_updated": "2026-08-27T10:29:05.437Z",
     "original_repository": "haidang666/awesome-tool-for-readme-profile",
     "original_repository_id": 338493626,
     "original_repository_sha": "92e958c77cf9c6dddf262470d7fa99d6fb1052de",
