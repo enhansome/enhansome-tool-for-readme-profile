@@ -14,9 +14,10 @@
             "last_commit": "2026-08-07T00:13:02Z",
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3634
+            "stars": 3633
           },
-          "title": "profile-summary-cards - vn7n24fzkq"
+          "title": "profile-summary-cards - vn7n24fzkq",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [
@@ -33,7 +34,8 @@
                 "owner": "fluttercommunity",
                 "repo": "import_sorter",
                 "stars": 183
-              }
+              },
+              "first_seen": "2026-08-28T12:11:48.538Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "gleich",
                 "repo": "beta-website",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T12:11:48.538Z"
             }
           ],
           "description": null,
@@ -62,7 +65,8 @@
             "repo": "profile_stack",
             "stars": 57
           },
-          "title": "profile_stack Tech stack list - Matt-Gleich"
+          "title": "profile_stack Tech stack list - Matt-Gleich",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -75,9 +79,10 @@
             "last_commit": "2026-05-29T21:41:23Z",
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17113
+            "stars": 17118
           },
-          "title": "All github metrics - lowlighter"
+          "title": "All github metrics - lowlighter",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -92,7 +97,8 @@
             "repo": "blog-post-workflow",
             "stars": 3441
           },
-          "title": "Blog post workflow - gautamkrishnar"
+          "title": "Blog post workflow - gautamkrishnar",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -107,7 +113,8 @@
             "repo": "waka-readme",
             "stars": 1830
           },
-          "title": "Wakatime Weekly Metrics - athul"
+          "title": "Wakatime Weekly Metrics - athul",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -120,9 +127,10 @@
             "last_commit": "2026-08-24T13:42:51Z",
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3984
+            "stars": 3985
           },
-          "title": "Wakatime-stats - anmol098"
+          "title": "Wakatime-stats - anmol098",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -137,7 +145,8 @@
             "repo": "snk",
             "stars": 6062
           },
-          "title": "Snake game from github user contributions graph - Platane"
+          "title": "Snake game from github user contributions graph - Platane",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -150,9 +159,10 @@
             "last_commit": "2026-08-27T08:48:30Z",
             "owner": "jstrieb",
             "repo": "github-stats",
-            "stars": 3542
+            "stars": 3544
           },
-          "title": "GitHub Stats Visualization - jstrieb"
+          "title": "GitHub Stats Visualization - jstrieb",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [
@@ -173,7 +183,8 @@
                         "owner": "crazy-max",
                         "repo": "goreleaser-xx",
                         "stars": 33
-                      }
+                      },
+                      "first_seen": "2026-08-28T12:11:48.538Z"
                     }
                   ],
                   "description": null,
@@ -195,7 +206,8 @@
                         "owner": "crazy-max",
                         "repo": "docker-n8n",
                         "stars": 19
-                      }
+                      },
+                      "first_seen": "2026-08-28T12:11:48.538Z"
                     }
                   ],
                   "description": null,
@@ -217,7 +229,8 @@
                         "owner": "crazy-max",
                         "repo": "goreleaser-xx",
                         "stars": 33
-                      }
+                      },
+                      "first_seen": "2026-08-28T12:11:48.538Z"
                     }
                   ],
                   "description": null,
@@ -236,12 +249,13 @@
             "archived": false,
             "id": 278751076,
             "language": null,
-            "last_commit": "2026-08-25T01:17:01Z",
+            "last_commit": "2026-08-28T10:03:31Z",
             "owner": "crazy-max",
             "repo": "crazy-max",
             "stars": 12
           },
-          "title": "Show recently activities - crazy-max"
+          "title": "Show recently activities - crazy-max",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -256,7 +270,8 @@
             "repo": "my-badges",
             "stars": 224
           },
-          "title": "My Badges - a custom badge with GitHub's achievements - antonmedv"
+          "title": "My Badges - a custom badge with GitHub's achievements - antonmedv",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -269,9 +284,10 @@
             "last_commit": "2026-08-24T21:16:06Z",
             "owner": "DenverCoder1",
             "repo": "github-readme-youtube-cards",
-            "stars": 282
+            "stars": 281
           },
-          "title": "YouTube Cards - DenverCoder1"
+          "title": "YouTube Cards - DenverCoder1",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         }
       ],
       "title": "------------ GITHUB ACTIONS ------------"
@@ -290,9 +306,10 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6638
+            "stars": 6639
           },
-          "title": "Profile trophy - ryo-ma"
+          "title": "Profile trophy - ryo-ma",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -307,7 +324,8 @@
             "repo": "github-readme-stackoverflow",
             "stars": 165
           },
-          "title": "Stackoverflow badge - omidnikrah"
+          "title": "Stackoverflow badge - omidnikrah",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -322,7 +340,8 @@
             "repo": "terminal-shields",
             "stars": 0
           },
-          "title": "terminal-shields - seuthootDev"
+          "title": "terminal-shields - seuthootDev",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -337,7 +356,8 @@
             "repo": "github-readme-medium-recent-article",
             "stars": 74
           },
-          "title": "Medium - bxcodec"
+          "title": "Medium - bxcodec",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -350,9 +370,10 @@
             "last_commit": "2026-07-31T00:50:25Z",
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79840
+            "stars": 79842
           },
-          "title": "Stats card - anuraghazra"
+          "title": "Stats card - anuraghazra",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -367,7 +388,8 @@
             "repo": "github-readme-zodiac",
             "stars": 0
           },
-          "title": "GitHub Readme Zodiac - seuthootDev"
+          "title": "GitHub Readme Zodiac - seuthootDev",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -382,7 +404,8 @@
             "repo": "github-readme-chinese-zodiac",
             "stars": 0
           },
-          "title": "GitHub Readme Chinese Zodiac - seuthootDev"
+          "title": "GitHub Readme Chinese Zodiac - seuthootDev",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -397,7 +420,8 @@
             "repo": "github-readme-insight-terminal-ascii",
             "stars": 8
           },
-          "title": "GitHub README Insight Terminal ASCII - seuthootDev"
+          "title": "GitHub README Insight Terminal ASCII - seuthootDev",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -412,7 +436,8 @@
             "repo": "github-profile-readme-generator",
             "stars": 902
           },
-          "title": "simple profile generator - arturssmirnovs"
+          "title": "simple profile generator - arturssmirnovs",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -427,7 +452,8 @@
             "repo": "github-readme-quotes",
             "stars": 307
           },
-          "title": "Dynamic quote generator for your GitHub readmes - shravan20"
+          "title": "Dynamic quote generator for your GitHub readmes - shravan20",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -442,7 +468,8 @@
             "repo": "cardivo",
             "stars": 94
           },
-          "title": "Cardivo card name - satyawikananda"
+          "title": "Cardivo card name - satyawikananda",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -457,7 +484,8 @@
             "repo": "capsule-render",
             "stars": 1808
           },
-          "title": "Capsule render - kyechan99"
+          "title": "Capsule render - kyechan99",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -472,7 +500,8 @@
             "repo": "github-readme-testimonials",
             "stars": 5
           },
-          "title": "GitHub Readme Testimonials - smashah"
+          "title": "GitHub Readme Testimonials - smashah",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -487,7 +516,8 @@
             "repo": "spotify-data-card",
             "stars": 80
           },
-          "title": "Show your Spotify activity - magic-ike"
+          "title": "Show your Spotify activity - magic-ike",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -502,7 +532,8 @@
             "repo": "spotify-github-profile",
             "stars": 2208
           },
-          "title": "Show your Spotify playing - kittinan"
+          "title": "Show your Spotify playing - kittinan",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -515,9 +546,10 @@
             "last_commit": "2026-05-18T16:24:03Z",
             "owner": "natemoo-re",
             "repo": "natemoo-re",
-            "stars": 486
+            "stars": 487
           },
-          "title": "Music playing - natemoo-re"
+          "title": "Music playing - natemoo-re",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -527,12 +559,13 @@
             "archived": false,
             "id": 307018731,
             "language": "PHP",
-            "last_commit": "2026-08-06T07:25:41Z",
+            "last_commit": "2026-08-28T05:42:44Z",
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7107
+            "stars": 7110
           },
-          "title": "Streak Stats - DenverCoder1"
+          "title": "Streak Stats - DenverCoder1",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -547,7 +580,8 @@
             "repo": "profile-summary-for-github",
             "stars": 19946
           },
-          "title": "Profile Summary - tipsy"
+          "title": "Profile Summary - tipsy",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -562,7 +596,8 @@
             "repo": "star-history",
             "stars": 9
           },
-          "title": "Repository Star History Graph - luca"
+          "title": "Repository Star History Graph - luca",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -577,7 +612,8 @@
             "repo": "readme-jokes",
             "stars": 711
           },
-          "title": "Readme Jokes - ABSphreak"
+          "title": "Readme Jokes - ABSphreak",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         }
       ],
       "title": "------------ GENERATIONS TOOLS ------------"
@@ -596,9 +632,10 @@
             "last_commit": "2026-01-26T03:53:09Z",
             "owner": "antonkomarev",
             "repo": "github-profile-views-counter",
-            "stars": 5015
+            "stars": 5016
           },
-          "title": "Profile views counter - antonkomarev"
+          "title": "Profile views counter - antonkomarev",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -613,7 +650,8 @@
             "repo": "github-readme-npm-downloads",
             "stars": 24
           },
-          "title": "Show npm packages downloads - maddhruv"
+          "title": "Show npm packages downloads - maddhruv",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -626,9 +664,10 @@
             "last_commit": "2026-08-21T21:48:56Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27123
+            "stars": 27128
           },
-          "title": "Badge generator"
+          "title": "Badge generator",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -641,9 +680,10 @@
             "last_commit": "2026-08-11T03:09:47Z",
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 16990
+            "stars": 16992
           },
-          "title": "Markdown badge list from shields.io - Ileriayo"
+          "title": "Markdown badge list from shields.io - Ileriayo",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         },
         {
           "children": [],
@@ -658,14 +698,15 @@
             "repo": "Gist-Count",
             "stars": 11
           },
-          "title": "Get gist count - lifeparticle"
+          "title": "Get gist count - lifeparticle",
+          "first_seen": "2026-08-28T12:11:48.538Z"
         }
       ],
       "title": "------------ TAG BLOCK ------------"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:10:51.609Z",
+    "last_updated": "2026-08-28T12:11:48.538Z",
     "original_repository_info": {
       "archived": false,
       "id": 338493626,
