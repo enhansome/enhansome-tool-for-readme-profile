@@ -2,9 +2,9 @@
 
 ## ------------ GITHUB ACTIONS ------------
 
-### [profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,633 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-07 - [vn7n24fzkq](https://github.com/vn7n24fzkq/)
+### [profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,634 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-07 - [vn7n24fzkq](https://github.com/vn7n24fzkq/)
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,633 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-07\
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,634 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-07\
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
 
 ### [profile\_stack](https://github.com/Matt-Gleich/profile_stack) ⭐ 57 | 🐛 1 | 🌐 Rust | 📅 2024-06-17 Tech stack list - [Matt-Gleich](https://github.com/Matt-Gleich/)
@@ -14,7 +14,7 @@
 | [![Dart](https://img.shields.io/static/v1?label=\&message=Dart\&color=52C0F2\&logo=dart\&logoColor=white)](https://dart.dev/)             | [![import\_sorter](https://img.shields.io/static/v1?label=\&message=import_sorter\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/fluttercommunity/import_sorter) ⭐ 183 \| 🐛 31 \| 🌐 Dart \| 📅 2024-03-16 [![Personal-Site](https://img.shields.io/static/v1?label=\&message=Personal-Site\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/Personal-Site) ⭐ 12 \| 🐛 0 \| 🌐 Dart \| 📅 2024-12-16 [![auralite-mobile](https://img.shields.io/static/v1?label=\&message=auralite-mobile%20%28WIP%29\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/auralite-mobile) ⭐ 8 \| 🐛 1 \| 🌐 Dart \| 📅 2020-08-10 |
 | [![Flutter](https://img.shields.io/static/v1?label=\&message=Flutter\&color=52C0F2\&logo=flutter\&logoColor=white)](https://flutter.dev/) | [![Personal-Site](https://img.shields.io/static/v1?label=\&message=Personal-Site\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/Personal-Site) ⭐ 12 \| 🐛 0 \| 🌐 Dart \| 📅 2024-12-16 [![auralite-mobile](https://img.shields.io/static/v1?label=\&message=auralite-mobile%20%28WIP%29\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/auralite-mobile) ⭐ 8 \| 🐛 1 \| 🌐 Dart \| 📅 2020-08-10                                                                                                                                                                                                                                                  |
 
-### [All github metrics](https://github.com/lowlighter/metrics) ⭐ 17,118 | 🐛 67 | 🌐 JavaScript | 📅 2026-05-29 -  [lowlighter](https://github.com/lowlighter)
+### [All github metrics](https://github.com/lowlighter/metrics) ⭐ 17,120 | 🐛 67 | 🌐 JavaScript | 📅 2026-05-29 -  [lowlighter](https://github.com/lowlighter)
 
 An infographics generator with 30+ plugins and 200+ options to display stats
 
@@ -109,9 +109,9 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 
 ## ------------ GENERATIONS TOOLS ------------
 
-### [Profile trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,639 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-25 - [ryo-ma](https://github.com/ryo-ma/)
+### [Profile trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,639 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-25 - [ryo-ma](https://github.com/ryo-ma/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,639 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-25
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,639 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-25
 
 ### [Stackoverflow badge](https://github.com/omidnikrah/github-readme-stackoverflow) ⭐ 165 | 🐛 5 | 🌐 JavaScript | 📅 2024-02-21 - [omidnikrah](https://github.com/omidnikrah/)
 
@@ -200,9 +200,9 @@ An infographics generator with 30+ plugins and 200+ options to display stats
   </tbody>
 </table>  
 
-### [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,110 | 🐛 78 | 🌐 PHP | 📅 2026-08-28 - [DenverCoder1](https://github.com/DenverCoder1/)
+### [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,111 | 🐛 78 | 🌐 PHP | 📅 2026-08-28 - [DenverCoder1](https://github.com/DenverCoder1/)
 
-### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1\&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,110 | 🐛 78 | 🌐 PHP | 📅 2026-08-28
+### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1\&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,111 | 🐛 78 | 🌐 PHP | 📅 2026-08-28
 
 ### [Stack Overflow flair](https://stackoverflow.com/users/flair)
 
@@ -231,12 +231,12 @@ More info (<https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/>)
 
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
 
-### [Badge generator](https://github.com/badges/shields) ⭐ 27,128 | 🐛 306 | 🌐 JavaScript | 📅 2026-08-21
+### [Badge generator](https://github.com/badges/shields) ⭐ 27,129 | 🐛 306 | 🌐 JavaScript | 📅 2026-08-28
 
 ![](https://shields.io/badge/style-plastic-green?logo=appveyor\&style=plastic) ![](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)\
 ![](https://shields.io/badge/-yellowgreen-yellowgreen) ![](https://shields.io/badge/-orange-orange) ![](https://shields.io/badge/-blueviolet-blueviolet)
 
-### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) ⭐ 16,992 | 🐛 0 | 🌐 SCSS | 📅 2026-08-11 - [Ileriayo](https://github.com/Ileriayo)
+### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) ⭐ 16,993 | 🐛 0 | 🌐 SCSS | 📅 2026-08-11 - [Ileriayo](https://github.com/Ileriayo)
 
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />  <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
 
@@ -246,4 +246,4 @@ More info (<https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

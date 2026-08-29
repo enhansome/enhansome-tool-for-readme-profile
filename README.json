@@ -9,12 +9,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A tool to generate your GitHub summary card for profile README",
+            "homepage": "https://github-profile-summary-cards.vercel.app/demo",
             "id": 292074617,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-07T00:13:02Z",
+            "open_issues": 7,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3633
+            "stars": 3634,
+            "topics": [
+              "github-action",
+              "github-profile-readme",
+              "hacktoberfest",
+              "profile-readme",
+              "profile-summary",
+              "readme-stats",
+              "star",
+              "summary-cards",
+              "trigger-action"
+            ]
           },
           "title": "profile-summary-cards - vn7n24fzkq",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -28,12 +43,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎯  Automatically organize your dart imports.",
+                "homepage": "https://pub.dev/packages/import_sorter",
                 "id": 256888317,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2024-03-16T20:19:53Z",
+                "open_issues": 31,
                 "owner": "fluttercommunity",
                 "repo": "import_sorter",
-                "stars": 183
+                "stars": 183,
+                "topics": [
+                  "code-quality",
+                  "dart",
+                  "dart-imports",
+                  "dart-package",
+                  "documentation",
+                  "flutter",
+                  "sorter"
+                ]
               },
               "first_seen": "2026-08-28T12:11:48.538Z"
             },
@@ -44,12 +72,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌎 My personal website built in Flutter",
+                "homepage": "https://mattglei.ch",
                 "id": 231663136,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2024-12-16T03:44:57Z",
+                "open_issues": 0,
                 "owner": "gleich",
                 "repo": "beta-website",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:11:48.538Z"
             }
@@ -58,12 +91,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🚀 Display your tech stack on your GitHub profile's README",
+            "homepage": null,
             "id": 277191695,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2024-06-17T18:26:55Z",
+            "open_issues": 1,
             "owner": "gleich",
             "repo": "profile_stack",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "github-actions",
+              "github-profile",
+              "github-profile-readme",
+              "markdown"
+            ]
           },
           "title": "profile_stack Tech stack list - Matt-Gleich",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -74,12 +117,34 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!",
+            "homepage": "https://metrics.lecoq.io",
             "id": 293860197,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-29T21:41:23Z",
+            "open_issues": 67,
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17118
+            "stars": 17120,
+            "topics": [
+              "automated",
+              "automation",
+              "github",
+              "github-action",
+              "github-api",
+              "github-metrics",
+              "github-profile",
+              "javascript",
+              "metrics",
+              "profile",
+              "profile-card",
+              "profile-readme",
+              "readme",
+              "readme-generator",
+              "readme-profile",
+              "svg-image"
+            ]
           },
           "title": "All github metrics - lowlighter",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -90,12 +155,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed",
+            "homepage": "https://github.com/marketplace/actions/blog-post-workflow",
             "id": 280830267,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-10T01:23:11Z",
+            "open_issues": 0,
             "owner": "gautamkrishnar",
             "repo": "blog-post-workflow",
-            "stars": 3441
+            "stars": 3441,
+            "topics": [
+              "activity",
+              "blog",
+              "blog-posts",
+              "blogging",
+              "ghost",
+              "github-actions",
+              "github-profile",
+              "github-workflow",
+              "hacktoberfest",
+              "profile-readme",
+              "rss",
+              "rss-feed",
+              "rss-feed-urls",
+              "stackexchange",
+              "stackoveflow",
+              "stackoverflow",
+              "stackoverflow-activity",
+              "wordpress",
+              "workflow",
+              "youtube"
+            ]
           },
           "title": "Blog post workflow - gautamkrishnar",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -106,12 +197,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Wakatime Weekly Metrics on your Profile Readme. ",
+            "homepage": "https://github.com/athul",
             "id": 278415002,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-18T01:33:48Z",
+            "open_issues": 2,
             "owner": "athul",
             "repo": "waka-readme",
-            "stars": 1830
+            "stars": 1830,
+            "topics": [
+              "profile-page",
+              "readme",
+              "wakatime"
+            ]
           },
           "title": "Wakatime Weekly Metrics - athul",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -122,12 +222,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "This GitHub action helps to add cool dev metrics to your github profile Readme",
+            "homepage": null,
             "id": 280882811,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T13:42:51Z",
+            "open_issues": 68,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3985
+            "stars": 3985,
+            "topics": [
+              "awesome",
+              "profile",
+              "profile-page",
+              "profile-readme",
+              "readme",
+              "wakatime"
+            ]
           },
           "title": "Wakatime-stats - anmol098",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -138,12 +250,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif",
+            "homepage": "https://platane.github.io/snk",
             "id": 279995113,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-04-29T21:44:31Z",
+            "open_issues": 2,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6062
+            "stars": 6062,
+            "topics": [
+              "gif",
+              "github-actions",
+              "github-contribution-graph",
+              "github-contributions",
+              "github-profile-readme",
+              "snake-game",
+              "svg-animations"
+            ]
           },
           "title": "Snake game from github user contributions graph - Platane",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -154,12 +279,32 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Better GitHub statistics images for your profile, with stats from private repos too",
+            "homepage": null,
             "id": 287110655,
             "language": "Zig",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T08:48:30Z",
+            "open_issues": 23,
             "owner": "jstrieb",
             "repo": "github-stats",
-            "stars": 3544
+            "stars": 3544,
+            "topics": [
+              "git-scraping",
+              "github",
+              "github-actions",
+              "github-api",
+              "github-stats",
+              "profile",
+              "readme-md",
+              "readme-template",
+              "statistics",
+              "statistics-images",
+              "stats-images",
+              "visualizations",
+              "zig",
+              "ziglang"
+            ]
           },
           "title": "GitHub Stats Visualization - jstrieb",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -177,12 +322,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Cross compilation helper for GoReleaser",
+                        "homepage": null,
                         "id": 344632258,
                         "language": "Go",
+                        "license": "MIT",
                         "last_commit": "2023-05-05T16:15:30Z",
+                        "open_issues": 3,
                         "owner": "crazy-max",
                         "repo": "goreleaser-xx",
-                        "stars": 33
+                        "stars": 33,
+                        "topics": [
+                          "bake",
+                          "build-tool",
+                          "buildx",
+                          "docker",
+                          "goreleaser",
+                          "multi-platform"
+                        ]
                       },
                       "first_seen": "2026-08-28T12:11:48.538Z"
                     }
@@ -200,12 +357,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "n8n Docker image",
+                        "homepage": null,
                         "id": 354697986,
                         "language": "Dockerfile",
+                        "license": "MIT",
                         "last_commit": "2024-05-01T18:20:12Z",
+                        "open_issues": 1,
                         "owner": "crazy-max",
                         "repo": "docker-n8n",
-                        "stars": 19
+                        "stars": 19,
+                        "topics": [
+                          "alpine-linux",
+                          "docker",
+                          "docker-compose",
+                          "multi-platform",
+                          "n8n",
+                          "workflow-automation"
+                        ]
                       },
                       "first_seen": "2026-08-28T12:11:48.538Z"
                     }
@@ -223,12 +392,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Cross compilation helper for GoReleaser",
+                        "homepage": null,
                         "id": 344632258,
                         "language": "Go",
+                        "license": "MIT",
                         "last_commit": "2023-05-05T16:15:30Z",
+                        "open_issues": 3,
                         "owner": "crazy-max",
                         "repo": "goreleaser-xx",
-                        "stars": 33
+                        "stars": 33,
+                        "topics": [
+                          "bake",
+                          "build-tool",
+                          "buildx",
+                          "docker",
+                          "goreleaser",
+                          "multi-platform"
+                        ]
                       },
                       "first_seen": "2026-08-28T12:11:48.538Z"
                     }
@@ -247,12 +428,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 278751076,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-28T10:03:31Z",
+            "open_issues": 3,
             "owner": "crazy-max",
             "repo": "crazy-max",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "title": "Show recently activities - crazy-max",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -263,12 +449,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Google's Moma Badges for GitHub",
+            "homepage": null,
             "id": 700386426,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T12:53:10Z",
+            "open_issues": 11,
             "owner": "my-badges",
             "repo": "my-badges",
-            "stars": 224
+            "stars": 224,
+            "topics": [
+              "github",
+              "github-profile",
+              "hacktoberfest",
+              "moma",
+              "profile",
+              "profile-readme"
+            ]
           },
           "title": "My Badges - a custom badge with GitHub's achievements - antonmedv",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -279,12 +477,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Workflow for displaying recent YouTube videos as SVG cards in your readme",
+            "homepage": "https://ytcards.demolab.com",
             "id": 534051116,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T21:16:06Z",
+            "open_issues": 7,
             "owner": "DenverCoder1",
             "repo": "github-readme-youtube-cards",
-            "stars": 281
+            "stars": 281,
+            "topics": [
+              "dynamic",
+              "github",
+              "hacktoberfest",
+              "profile-readme",
+              "readme",
+              "svg",
+              "workflows",
+              "youtube"
+            ]
           },
           "title": "YouTube Cards - DenverCoder1",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -301,12 +513,30 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🏆 Add dynamically generated GitHub Stat Trophies  on your readme",
+            "homepage": "https://github-profile-trophy.vercel.app",
             "id": 289523918,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T00:05:17Z",
+            "open_issues": 31,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6639
+            "stars": 6639,
+            "topics": [
+              "deno",
+              "github",
+              "github-profile",
+              "github-profile-readme",
+              "github-profile-trophy",
+              "github-readme",
+              "github-readme-trophy",
+              "github-trophy",
+              "hacktoberfest",
+              "rank",
+              "readme",
+              "typescript"
+            ]
           },
           "title": "Profile trophy - ryo-ma",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -317,12 +547,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "📊.  Dynamically generated your StackOverflow status on your GitHub READMEs!",
+            "homepage": "https://github-readme-stackoverflow.vercel.app",
             "id": 283610329,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-02-21T19:52:52Z",
+            "open_issues": 5,
             "owner": "omidnikrah",
             "repo": "github-readme-stackoverflow",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "github-profile",
+              "github-profile-markdown",
+              "github-profile-readme",
+              "github-readme",
+              "stackoverflow"
+            ]
           },
           "title": "Stackoverflow badge - omidnikrah",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -333,12 +574,30 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Terminal-style alternative to Shields.io — dynamic SVG badges for GitHub README.",
+            "homepage": "https://terminal-shields.vercel.app",
             "id": 1344066543,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T02:18:03Z",
+            "open_issues": 0,
             "owner": "seuthootDev",
             "repo": "terminal-shields",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "badge",
+              "badges",
+              "github-readme",
+              "markdown",
+              "neon",
+              "nodejs",
+              "profile-readme",
+              "readme",
+              "shields",
+              "svg",
+              "terminal",
+              "vercel"
+            ]
           },
           "title": "terminal-shields - seuthootDev",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -349,12 +608,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Add Your Recently Published Medium Articles to Your GitHub Readme",
+            "homepage": "github-readme-medium-recent-article-git-master.bxcodec.vercel.app",
             "id": 282679629,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T21:33:24Z",
+            "open_issues": 10,
             "owner": "bxcodec",
             "repo": "github-readme-medium-recent-article",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "article",
+              "medium",
+              "profile-readme",
+              "recent-posts"
+            ]
           },
           "title": "Medium - bxcodec",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -365,12 +634,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": ":zap: Dynamically generated stats for your github readmes",
+            "homepage": "https://github-readme-stats.vercel.app",
             "id": 278335273,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-31T00:50:25Z",
+            "open_issues": 293,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79842
+            "stars": 79842,
+            "topics": [
+              "dynamic",
+              "profile-readme",
+              "readme-generator",
+              "readme-stats",
+              "serverless"
+            ]
           },
           "title": "Stats card - anuraghazra",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -381,12 +661,34 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "GitHub activity → Zodiac-style SVG profile cards for your README",
+            "homepage": "https://github-readme-zodiac.vercel.app",
             "id": 1322542016,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T09:08:46Z",
+            "open_issues": 0,
             "owner": "seuthootDev",
             "repo": "github-readme-zodiac",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "astro",
+              "developer-tools-",
+              "github-action",
+              "github-readme-profile",
+              "github-readme-stats",
+              "nodejs",
+              "pinned-gists",
+              "portfolio",
+              "profile-readme-stats",
+              "readme-badges",
+              "readme-card",
+              "readme-edits",
+              "svg-animation",
+              "vercel-live",
+              "zodiac-sign",
+              "zodiac-signs"
+            ]
           },
           "title": "GitHub Readme Zodiac - seuthootDev",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -397,12 +699,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Asian zodiac (十二生肖) SVG + pinned Gist cards from your GitHub activity",
+            "homepage": "https://github-readme-chinese-zodiac.vercel.app",
             "id": 1322637759,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T09:53:21Z",
+            "open_issues": 0,
             "owner": "seuthootDev",
             "repo": "github-readme-chinese-zodiac",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "asian-zodiac",
+              "chinese-zodiac",
+              "gist",
+              "github-actions",
+              "github-readme",
+              "profile-readme",
+              "readme-generator",
+              "svg",
+              "vercel",
+              "zodiac"
+            ]
           },
           "title": "GitHub Readme Chinese Zodiac - seuthootDev",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -413,12 +731,31 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A tool to generate terminal-style ASCII SVGs from your GitHub profile contribution data",
+            "homepage": "https://github-readme-insight-terminal-asci.vercel.app",
             "id": 1183098098,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T04:05:51Z",
+            "open_issues": 0,
             "owner": "seuthootDev",
             "repo": "github-readme-insight-terminal-ascii",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "ascii-art",
+              "contribution-graph",
+              "contribution-graph-github",
+              "github",
+              "github-contributions",
+              "github-grass",
+              "github-profile",
+              "github-readme",
+              "github-readme-profile",
+              "readme-stats",
+              "svg",
+              "terminal",
+              "terminal-ui"
+            ]
           },
           "title": "GitHub README Insight Terminal ASCII - seuthootDev",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -429,12 +766,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "GitHub profile readme generator allows you to create nice and simple GitHub profile readme files that will be included in your profile previews.",
+            "homepage": "https://arturssmirnovs.github.io/github-profile-readme-generator/",
             "id": 280809092,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-20T18:47:17Z",
+            "open_issues": 0,
             "owner": "arturssmirnovs",
             "repo": "github-profile-readme-generator",
-            "stars": 902
+            "stars": 902,
+            "topics": [
+              "github",
+              "github-readme",
+              "hacktoberfest",
+              "profile",
+              "profile-previews",
+              "readme",
+              "readme-generator",
+              "readme-generator-template"
+            ]
           },
           "title": "simple profile generator - arturssmirnovs",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -445,12 +796,35 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes",
+            "homepage": "https://github-readme-quotes-returns.vercel.app/",
             "id": 311138004,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-29T09:33:50Z",
+            "open_issues": 49,
             "owner": "zhravan",
             "repo": "github-readme-quotes",
-            "stars": 307
+            "stars": 307,
+            "topics": [
+              "express",
+              "first-timers",
+              "good-first-issue",
+              "good-first-issues",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest2025",
+              "node",
+              "node-js",
+              "nodejs",
+              "profile-readme",
+              "quote-generator",
+              "quotes",
+              "react",
+              "reactjs",
+              "readme-generator",
+              "readme-md"
+            ]
           },
           "title": "Dynamic quote generator for your GitHub readmes - shravan20",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -461,12 +835,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Get your card name and put it in your readme file 📇",
+            "homepage": "https://cardivo.vercel.app",
             "id": 313360710,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-06T15:32:25Z",
+            "open_issues": 2,
             "owner": "satyawikananda",
             "repo": "cardivo",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "magic-readme",
+              "name-card",
+              "profile-readme",
+              "readme-generator",
+              "serverless",
+              "svg",
+              "typescript",
+              "vercel"
+            ]
           },
           "title": "Cardivo card name - satyawikananda",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -477,12 +865,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🌈 Dynamic Coloful Image Render",
+            "homepage": "https://capsule-render.vercel.app",
             "id": 280360410,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T05:05:08Z",
+            "open_issues": 13,
             "owner": "kyechan99",
             "repo": "capsule-render",
-            "stars": 1808
+            "stars": 1808,
+            "topics": [
+              "dynamic",
+              "dynamic-profile",
+              "github-profile",
+              "image-generator",
+              "profile-readme",
+              "readme-generator"
+            ]
           },
           "title": "Capsule render - kyechan99",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -493,12 +893,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Show appreciation for your contributions in your readme",
+            "homepage": "https://github-readme-testimonials.vercel.app",
             "id": 292063869,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2020-09-04T12:00:21Z",
+            "open_issues": 0,
             "owner": "smashah",
             "repo": "github-readme-testimonials",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "github-readme",
+              "profile-readme",
+              "puppeteer",
+              "readme",
+              "readme-generator",
+              "serverless",
+              "vercel"
+            ]
           },
           "title": "GitHub Readme Testimonials - smashah",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -509,12 +922,32 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Dynamically generated Spotify data to embed in your README or website. Card generation is now 3x as fast 🚀🚀🚀",
+            "homepage": "https://data-card-for-spotify.herokuapp.com",
             "id": 532352017,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-28T01:39:02Z",
+            "open_issues": 5,
             "owner": "magic-ike",
             "repo": "spotify-data-card",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "express",
+              "javascript",
+              "node-js",
+              "nodejs",
+              "nodejs-server",
+              "profile-readme",
+              "readme",
+              "restful-api",
+              "service",
+              "spotify",
+              "spotify-api",
+              "spotify-data",
+              "spotify-web-api",
+              "typescript"
+            ]
           },
           "title": "Show your Spotify activity - magic-ike",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -525,12 +958,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Show your Spotify playing on your Github profile",
+            "homepage": "https://spotify-github-profile.kittinanx.com/api/login",
             "id": 280877685,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-21T11:11:53Z",
+            "open_issues": 20,
             "owner": "kittinan",
             "repo": "spotify-github-profile",
-            "stars": 2208
+            "stars": 2208,
+            "topics": [
+              "github",
+              "github-pages",
+              "hacktoberfest",
+              "spotify"
+            ]
           },
           "title": "Show your Spotify playing - kittinan",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -541,12 +984,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://status.nmoo.dev/now-playing",
             "id": 267873197,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-18T16:24:03Z",
+            "open_issues": 8,
             "owner": "natemoo-re",
             "repo": "natemoo-re",
-            "stars": 487
+            "stars": 487,
+            "topics": []
           },
           "title": "Music playing - natemoo-re",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -557,12 +1005,30 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README",
+            "homepage": "https://streak-stats.demolab.com",
             "id": 307018731,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-28T05:42:44Z",
+            "open_issues": 78,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7110
+            "stars": 7111,
+            "topics": [
+              "dynamic",
+              "github",
+              "github-profile",
+              "github-readme-stats",
+              "hacktoberfest",
+              "php",
+              "profile",
+              "profile-readme",
+              "readme",
+              "readme-stats",
+              "stats",
+              "streak"
+            ]
           },
           "title": "Streak Stats - DenverCoder1",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -573,12 +1039,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Tool for visualizing GitHub profiles",
+            "homepage": "https://profile-summary-for-github.com/",
             "id": 113752225,
             "language": "Vue",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-22T13:17:02Z",
+            "open_issues": 23,
             "owner": "tipsy",
             "repo": "profile-summary-for-github",
-            "stars": 19946
+            "stars": 19946,
+            "topics": [
+              "github-api",
+              "javalin",
+              "kotlin",
+              "webapp"
+            ]
           },
           "title": "Profile Summary - tipsy",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -589,12 +1065,32 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Github Star History - A stunning star history widget chart generator for Github Repositories",
+            "homepage": "https://api.lucabubi.me/chart",
             "id": 736389128,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-17T12:29:09Z",
+            "open_issues": 0,
             "owner": "lucabubi",
             "repo": "star-history",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "github",
+              "github-pages",
+              "github-readme-stats",
+              "readme",
+              "readme-md",
+              "readme-stats",
+              "star-history",
+              "stars",
+              "stars-history",
+              "statistics",
+              "trending",
+              "trending-repositories",
+              "widget",
+              "widgets"
+            ]
           },
           "title": "Repository Star History Graph - luca",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -605,12 +1101,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "😄 Jokes for your GitHub READMEs",
+            "homepage": "https://readme-jokes.vercel.app/api",
             "id": 283751099,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-02T20:17:49Z",
+            "open_issues": 15,
             "owner": "ABSphreak",
             "repo": "readme-jokes",
-            "stars": 711
+            "stars": 711,
+            "topics": [
+              "api",
+              "hacktoberfest",
+              "jokes",
+              "readme-jokes",
+              "vercel",
+              "vercel-now"
+            ]
           },
           "title": "Readme Jokes - ABSphreak",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -627,12 +1135,30 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "It counts how many times your GitHub profile has been viewed. Free cloud micro-service.",
+            "homepage": "https://komarev.com/sources/github-profile-views-counter",
             "id": 278929867,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-01-26T03:53:09Z",
+            "open_issues": 12,
             "owner": "antonkomarev",
             "repo": "github-profile-views-counter",
-            "stars": 5016
+            "stars": 5016,
+            "topics": [
+              "analytics",
+              "counter",
+              "gh",
+              "github",
+              "github-analytics",
+              "github-counter",
+              "github-profile",
+              "github-profile-counter",
+              "profile-readme",
+              "view-counter",
+              "views-count",
+              "visitor-counter"
+            ]
           },
           "title": "Profile views counter - antonkomarev",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -643,12 +1169,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Show npm packages downloads :arrow_double_down: in GitHub README",
+            "homepage": null,
             "id": 280583219,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-06-14T01:14:52Z",
+            "open_issues": 2,
             "owner": "maddhruv",
             "repo": "github-readme-npm-downloads",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "title": "Show npm packages downloads - maddhruv",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -659,12 +1190,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Concise, consistent, and legible badges in SVG and raster format",
+            "homepage": "https://shields.io",
             "id": 7910045,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T21:48:56Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:20:18Z",
+            "open_issues": 306,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27128
+            "stars": 27129,
+            "topics": [
+              "badge",
+              "badge-maker",
+              "github",
+              "hacktoberfest",
+              "metadata",
+              "status",
+              "svg"
+            ]
           },
           "title": "Badge generator",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -675,12 +1219,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The largest curated collection of markdown badges for your personal developer branding, profile, and projects.",
+            "homepage": "https://ileriayo.github.io/markdown-badges",
             "id": 280898258,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2026-08-11T03:09:47Z",
+            "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 16992
+            "stars": 16993,
+            "topics": [
+              "badges-markdown",
+              "branding",
+              "developer-portfolio",
+              "github-profile",
+              "github-profile-readme",
+              "hacktoberfest",
+              "markdown"
+            ]
           },
           "title": "Markdown badge list from shields.io - Ileriayo",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -691,12 +1248,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "⌗ Get GitHub Gist Count",
+            "homepage": "https://gist-count.vercel.app/api?username=REPLACE_WITH_YOUR_USERNAME",
             "id": 285453412,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-06-14T12:50:55Z",
+            "open_issues": 1,
             "owner": "lifeparticle",
             "repo": "Gist-Count",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "automation",
+              "gist",
+              "gists",
+              "ruby",
+              "svg"
+            ]
           },
           "title": "Get gist count - lifeparticle",
           "first_seen": "2026-08-28T12:11:48.538Z"
@@ -706,15 +1274,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:11:48.538Z",
+    "last_updated": "2026-08-29T04:46:27.625Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of thing you can add to your github readme profile",
+      "homepage": null,
       "id": 338493626,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2026-08-24T00:10:47Z",
+      "open_issues": 0,
       "owner": "haidang666",
       "repo": "awesome-tool-for-readme-profile",
-      "stars": 318
+      "stars": 318,
+      "topics": [
+        "awesome-list",
+        "github-actions",
+        "github-profile-readme",
+        "profile-readme",
+        "profile-summary"
+      ]
     },
     "original_repository_sha": "92e958c77cf9c6dddf262470d7fa99d6fb1052de",
     "enhanced_repository": "enhansome/enhansome-tool-for-readme-profile",
