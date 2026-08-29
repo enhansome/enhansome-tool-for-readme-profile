@@ -47,18 +47,18 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 
 ![preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
 
-### [Snake game from github user contributions graph](https://github.com/Platane/snk) ⭐ 6,062 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-29 - [Platane](https://github.com/Platane/)
+### [Snake game from github user contributions graph](https://github.com/Platane/snk) ⭐ 6,063 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-29 - [Platane](https://github.com/Platane/)
 
 ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
-### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) ⭐ 3,544 | 🐛 23 | 🌐 Zig | 📅 2026-08-27 - [jstrieb](https://github.com/jstrieb)
+### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) ⭐ 3,544 | 🐛 23 | 🌐 Zig | 📅 2026-08-29 - [jstrieb](https://github.com/jstrieb)
 
 <a href="https://github.com/jstrieb/github-stats">
 
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg) </a>
 
-### [Show recently activities](https://github.com/crazy-max/crazy-max) ⭐ 12 | 🐛 3 | 📅 2026-08-28 - [crazy-max](https://github.com/crazy-max)
+### [Show recently activities](https://github.com/crazy-max/crazy-max) ⭐ 12 | 🐛 3 | 📅 2026-08-29 - [crazy-max](https://github.com/crazy-max)
 
 #### Hi there 👋
 
@@ -236,7 +236,7 @@ More info (<https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/>)
 ![](https://shields.io/badge/style-plastic-green?logo=appveyor\&style=plastic) ![](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)\
 ![](https://shields.io/badge/-yellowgreen-yellowgreen) ![](https://shields.io/badge/-orange-orange) ![](https://shields.io/badge/-blueviolet-blueviolet)
 
-### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) ⭐ 16,993 | 🐛 0 | 🌐 SCSS | 📅 2026-08-11 - [Ileriayo](https://github.com/Ileriayo)
+### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) ⭐ 16,992 | 🐛 0 | 🌐 SCSS | 📅 2026-08-11 - [Ileriayo](https://github.com/Ileriayo)
 
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />  <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
 
