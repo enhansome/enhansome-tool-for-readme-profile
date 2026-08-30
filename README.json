@@ -18,7 +18,7 @@
             "open_issues": 7,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3634,
+            "stars": 3636,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -126,7 +126,7 @@
             "open_issues": 67,
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17120,
+            "stars": 17125,
             "topics": [
               "automated",
               "automation",
@@ -164,7 +164,7 @@
             "open_issues": 0,
             "owner": "gautamkrishnar",
             "repo": "blog-post-workflow",
-            "stars": 3441,
+            "stars": 3442,
             "topics": [
               "activity",
               "blog",
@@ -259,7 +259,7 @@
             "open_issues": 2,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6063,
+            "stars": 6064,
             "topics": [
               "gif",
               "github-actions",
@@ -284,7 +284,7 @@
             "id": 287110655,
             "language": "Zig",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T06:48:03Z",
+            "last_commit": "2026-08-30T04:59:49Z",
             "open_issues": 23,
             "owner": "jstrieb",
             "repo": "github-stats",
@@ -433,7 +433,7 @@
             "id": 278751076,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-29T06:00:17Z",
+            "last_commit": "2026-08-30T04:06:09Z",
             "open_issues": 3,
             "owner": "crazy-max",
             "repo": "crazy-max",
@@ -522,7 +522,7 @@
             "open_issues": 31,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6639,
+            "stars": 6642,
             "topics": [
               "deno",
               "github",
@@ -874,7 +874,7 @@
             "open_issues": 13,
             "owner": "kyechan99",
             "repo": "capsule-render",
-            "stars": 1808,
+            "stars": 1809,
             "topics": [
               "dynamic",
               "dynamic-profile",
@@ -1014,7 +1014,7 @@
             "open_issues": 78,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7111,
+            "stars": 7113,
             "topics": [
               "dynamic",
               "github",
@@ -1144,7 +1144,7 @@
             "open_issues": 12,
             "owner": "antonkomarev",
             "repo": "github-profile-views-counter",
-            "stars": 5016,
+            "stars": 5017,
             "topics": [
               "analytics",
               "counter",
@@ -1195,11 +1195,11 @@
             "id": 7910045,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T19:20:18Z",
-            "open_issues": 306,
+            "last_commit": "2026-08-29T21:11:54Z",
+            "open_issues": 302,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27129,
+            "stars": 27131,
             "topics": [
               "badge",
               "badge-maker",
@@ -1228,7 +1228,7 @@
             "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 16992,
+            "stars": 16994,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1274,7 +1274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:20:52.994Z",
+    "last_updated": "2026-08-30T05:46:38.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of thing you can add to your github readme profile",
