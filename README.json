@@ -18,7 +18,7 @@
             "open_issues": 7,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3636,
+            "stars": 3638,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -126,7 +126,7 @@
             "open_issues": 67,
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17125,
+            "stars": 17126,
             "topics": [
               "automated",
               "automation",
@@ -206,7 +206,7 @@
             "open_issues": 2,
             "owner": "athul",
             "repo": "waka-readme",
-            "stars": 1830,
+            "stars": 1829,
             "topics": [
               "profile-page",
               "readme",
@@ -259,7 +259,7 @@
             "open_issues": 2,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6064,
+            "stars": 6067,
             "topics": [
               "gif",
               "github-actions",
@@ -284,11 +284,11 @@
             "id": 287110655,
             "language": "Zig",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T04:59:49Z",
+            "last_commit": "2026-08-31T05:04:10Z",
             "open_issues": 23,
             "owner": "jstrieb",
             "repo": "github-stats",
-            "stars": 3544,
+            "stars": 3546,
             "topics": [
               "git-scraping",
               "github",
@@ -433,7 +433,7 @@
             "id": 278751076,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-30T04:06:09Z",
+            "last_commit": "2026-08-31T04:11:54Z",
             "open_issues": 3,
             "owner": "crazy-max",
             "repo": "crazy-max",
@@ -519,10 +519,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-25T00:05:17Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6642,
+            "stars": 6643,
             "topics": [
               "deno",
               "github",
@@ -639,11 +639,11 @@
             "id": 278335273,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-07-31T00:50:25Z",
+            "last_commit": "2026-08-31T00:55:37Z",
             "open_issues": 293,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79842,
+            "stars": 79843,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -874,7 +874,7 @@
             "open_issues": 13,
             "owner": "kyechan99",
             "repo": "capsule-render",
-            "stars": 1809,
+            "stars": 1811,
             "topics": [
               "dynamic",
               "dynamic-profile",
@@ -967,7 +967,7 @@
             "open_issues": 20,
             "owner": "kittinan",
             "repo": "spotify-github-profile",
-            "stars": 2208,
+            "stars": 2210,
             "topics": [
               "github",
               "github-pages",
@@ -1014,7 +1014,7 @@
             "open_issues": 78,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7113,
+            "stars": 7119,
             "topics": [
               "dynamic",
               "github",
@@ -1195,11 +1195,11 @@
             "id": 7910045,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T21:11:54Z",
-            "open_issues": 302,
+            "last_commit": "2026-08-30T20:35:16Z",
+            "open_issues": 299,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27131,
+            "stars": 27133,
             "topics": [
               "badge",
               "badge-maker",
@@ -1228,7 +1228,7 @@
             "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 16994,
+            "stars": 16997,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1274,7 +1274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:46:38.372Z",
+    "last_updated": "2026-08-31T06:05:56.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of thing you can add to your github readme profile",
