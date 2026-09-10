@@ -14,8 +14,8 @@
             "id": 292074617,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T16:24:13Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-10T04:31:59Z",
+            "open_issues": 12,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
             "stars": 3649,
@@ -126,7 +126,7 @@
             "open_issues": 68,
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17167,
+            "stars": 17171,
             "topics": [
               "automated",
               "automation",
@@ -206,7 +206,7 @@
             "open_issues": 2,
             "owner": "athul",
             "repo": "waka-readme",
-            "stars": 1831,
+            "stars": 1832,
             "topics": [
               "profile-page",
               "readme",
@@ -231,7 +231,7 @@
             "open_issues": 68,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3989,
+            "stars": 3990,
             "topics": [
               "awesome",
               "profile",
@@ -256,10 +256,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-04-29T21:44:31Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6073,
+            "stars": 6077,
             "topics": [
               "gif",
               "github-actions",
@@ -284,11 +284,11 @@
             "id": 287110655,
             "language": "Zig",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T04:17:16Z",
+            "last_commit": "2026-09-10T04:13:34Z",
             "open_issues": 23,
             "owner": "jstrieb",
             "repo": "github-stats",
-            "stars": 3550,
+            "stars": 3551,
             "topics": [
               "git-scraping",
               "github",
@@ -433,7 +433,7 @@
             "id": 278751076,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-08T03:28:19Z",
+            "last_commit": "2026-09-10T03:30:16Z",
             "open_issues": 3,
             "owner": "crazy-max",
             "repo": "crazy-max",
@@ -486,7 +486,7 @@
             "open_issues": 6,
             "owner": "DenverCoder1",
             "repo": "github-readme-youtube-cards",
-            "stars": 281,
+            "stars": 282,
             "topics": [
               "dynamic",
               "github",
@@ -643,7 +643,7 @@
             "open_issues": 292,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79847,
+            "stars": 79846,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -967,7 +967,7 @@
             "open_issues": 21,
             "owner": "kittinan",
             "repo": "spotify-github-profile",
-            "stars": 2218,
+            "stars": 2220,
             "topics": [
               "github",
               "github-pages",
@@ -1014,7 +1014,7 @@
             "open_issues": 75,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7129,
+            "stars": 7130,
             "topics": [
               "dynamic",
               "github",
@@ -1048,7 +1048,7 @@
             "open_issues": 23,
             "owner": "tipsy",
             "repo": "profile-summary-for-github",
-            "stars": 19942,
+            "stars": 19941,
             "topics": [
               "github-api",
               "javalin",
@@ -1110,7 +1110,7 @@
             "open_issues": 15,
             "owner": "ABSphreak",
             "repo": "readme-jokes",
-            "stars": 711,
+            "stars": 712,
             "topics": [
               "api",
               "hacktoberfest",
@@ -1141,10 +1141,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-01-26T03:53:09Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "antonkomarev",
             "repo": "github-profile-views-counter",
-            "stars": 5015,
+            "stars": 5014,
             "topics": [
               "analytics",
               "counter",
@@ -1195,11 +1195,11 @@
             "id": 7910045,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T15:17:28Z",
-            "open_issues": 302,
+            "last_commit": "2026-09-09T20:57:47Z",
+            "open_issues": 299,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27175,
+            "stars": 27176,
             "topics": [
               "badge",
               "badge-maker",
@@ -1228,7 +1228,7 @@
             "open_issues": 1,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17025,
+            "stars": 17032,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1274,7 +1274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T05:12:41.097Z",
+    "last_updated": "2026-09-10T05:13:32.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of thing you can add to your github readme profile",
