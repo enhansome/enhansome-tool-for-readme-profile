@@ -126,7 +126,7 @@
             "open_issues": 68,
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17189,
+            "stars": 17194,
             "topics": [
               "automated",
               "automation",
@@ -231,7 +231,7 @@
             "open_issues": 69,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3992,
+            "stars": 3993,
             "topics": [
               "awesome",
               "profile",
@@ -259,7 +259,7 @@
             "open_issues": 3,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6083,
+            "stars": 6085,
             "topics": [
               "gif",
               "github-actions",
@@ -284,11 +284,11 @@
             "id": 287110655,
             "language": "Zig",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T04:31:43Z",
+            "last_commit": "2026-09-15T04:31:47Z",
             "open_issues": 23,
             "owner": "jstrieb",
             "repo": "github-stats",
-            "stars": 3553,
+            "stars": 3555,
             "topics": [
               "git-scraping",
               "github",
@@ -433,7 +433,7 @@
             "id": 278751076,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-14T03:47:41Z",
+            "last_commit": "2026-09-15T03:51:56Z",
             "open_issues": 3,
             "owner": "crazy-max",
             "repo": "crazy-max",
@@ -522,7 +522,7 @@
             "open_issues": 32,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6652,
+            "stars": 6653,
             "topics": [
               "deno",
               "github",
@@ -643,7 +643,7 @@
             "open_issues": 292,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79839,
+            "stars": 79840,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -874,7 +874,7 @@
             "open_issues": 16,
             "owner": "kyechan99",
             "repo": "capsule-render",
-            "stars": 1821,
+            "stars": 1820,
             "topics": [
               "dynamic",
               "dynamic-profile",
@@ -931,7 +931,7 @@
             "open_issues": 5,
             "owner": "magic-ike",
             "repo": "spotify-data-card",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "express",
               "javascript",
@@ -967,7 +967,7 @@
             "open_issues": 21,
             "owner": "kittinan",
             "repo": "spotify-github-profile",
-            "stars": 2223,
+            "stars": 2222,
             "topics": [
               "github",
               "github-pages",
@@ -1010,11 +1010,11 @@
             "id": 307018731,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-31T13:29:29Z",
+            "last_commit": "2026-09-14T07:16:52Z",
             "open_issues": 76,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7135,
+            "stars": 7138,
             "topics": [
               "dynamic",
               "github",
@@ -1141,10 +1141,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-01-26T03:53:09Z",
-            "open_issues": 13,
+            "open_issues": 11,
             "owner": "antonkomarev",
             "repo": "github-profile-views-counter",
-            "stars": 5020,
+            "stars": 5022,
             "topics": [
               "analytics",
               "counter",
@@ -1195,11 +1195,11 @@
             "id": 7910045,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T20:02:08Z",
-            "open_issues": 297,
+            "last_commit": "2026-09-14T21:23:17Z",
+            "open_issues": 296,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27187,
+            "stars": 27189,
             "topics": [
               "badge",
               "badge-maker",
@@ -1228,7 +1228,7 @@
             "open_issues": 1,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17033,
+            "stars": 17037,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1274,7 +1274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T05:25:02.243Z",
+    "last_updated": "2026-09-15T05:19:22.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of thing you can add to your github readme profile",
