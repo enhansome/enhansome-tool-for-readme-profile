@@ -18,7 +18,7 @@
             "open_issues": 12,
             "owner": "vn7n24fzkq",
             "repo": "github-profile-summary-cards",
-            "stars": 3652,
+            "stars": 3651,
             "topics": [
               "github-action",
               "github-profile-readme",
@@ -126,7 +126,7 @@
             "open_issues": 68,
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17194,
+            "stars": 17200,
             "topics": [
               "automated",
               "automation",
@@ -164,7 +164,7 @@
             "open_issues": 0,
             "owner": "gautamkrishnar",
             "repo": "blog-post-workflow",
-            "stars": 3442,
+            "stars": 3443,
             "topics": [
               "activity",
               "blog",
@@ -231,7 +231,7 @@
             "open_issues": 69,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3993,
+            "stars": 3994,
             "topics": [
               "awesome",
               "profile",
@@ -259,7 +259,7 @@
             "open_issues": 3,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6085,
+            "stars": 6086,
             "topics": [
               "gif",
               "github-actions",
@@ -284,7 +284,7 @@
             "id": 287110655,
             "language": "Zig",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T04:31:47Z",
+            "last_commit": "2026-09-16T04:26:50Z",
             "open_issues": 23,
             "owner": "jstrieb",
             "repo": "github-stats",
@@ -433,7 +433,7 @@
             "id": 278751076,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-15T03:51:56Z",
+            "last_commit": "2026-09-16T03:48:43Z",
             "open_issues": 3,
             "owner": "crazy-max",
             "repo": "crazy-max",
@@ -522,7 +522,7 @@
             "open_issues": 32,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6653,
+            "stars": 6652,
             "topics": [
               "deno",
               "github",
@@ -643,7 +643,7 @@
             "open_issues": 292,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79840,
+            "stars": 79832,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -874,7 +874,7 @@
             "open_issues": 16,
             "owner": "kyechan99",
             "repo": "capsule-render",
-            "stars": 1820,
+            "stars": 1821,
             "topics": [
               "dynamic",
               "dynamic-profile",
@@ -1014,7 +1014,7 @@
             "open_issues": 76,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7138,
+            "stars": 7140,
             "topics": [
               "dynamic",
               "github",
@@ -1195,7 +1195,7 @@
             "id": 7910045,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T21:23:17Z",
+            "last_commit": "2026-09-15T15:40:43Z",
             "open_issues": 296,
             "owner": "badges",
             "repo": "shields",
@@ -1228,7 +1228,7 @@
             "open_issues": 1,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17037,
+            "stars": 17044,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1274,7 +1274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T05:19:22.558Z",
+    "last_updated": "2026-09-16T05:12:58.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of thing you can add to your github readme profile",
