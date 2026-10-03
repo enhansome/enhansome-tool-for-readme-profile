@@ -39,7 +39,7 @@
             {
               "node_type": "item",
               "title": "import_sorter",
-              "description": null,
+              "description": "fluttercommunity/import_sorter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -68,7 +68,7 @@
             {
               "node_type": "item",
               "title": "beta-website",
-              "description": null,
+              "description": "gleich/beta-website",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -126,7 +126,7 @@
             "open_issues": 71,
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17253,
+            "stars": 17256,
             "topics": [
               "automated",
               "automation",
@@ -231,7 +231,7 @@
             "open_issues": 68,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3997,
+            "stars": 3998,
             "topics": [
               "awesome",
               "profile",
@@ -259,7 +259,7 @@
             "open_issues": 3,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6105,
+            "stars": 6106,
             "topics": [
               "gif",
               "github-actions",
@@ -284,11 +284,11 @@
             "id": 287110655,
             "language": "Zig",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T05:14:21Z",
+            "last_commit": "2026-10-03T04:56:13Z",
             "open_issues": 22,
             "owner": "jstrieb",
             "repo": "github-stats",
-            "stars": 3559,
+            "stars": 3561,
             "topics": [
               "git-scraping",
               "github",
@@ -433,7 +433,7 @@
             "id": 278751076,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-02T04:34:40Z",
+            "last_commit": "2026-10-03T04:16:39Z",
             "open_issues": 3,
             "owner": "crazy-max",
             "repo": "crazy-max",
@@ -522,7 +522,7 @@
             "open_issues": 34,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6665,
+            "stars": 6666,
             "topics": [
               "deno",
               "github",
@@ -643,7 +643,7 @@
             "open_issues": 294,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79818,
+            "stars": 79820,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -874,7 +874,7 @@
             "open_issues": 18,
             "owner": "kyechan99",
             "repo": "capsule-render",
-            "stars": 1837,
+            "stars": 1838,
             "topics": [
               "dynamic",
               "dynamic-profile",
@@ -1014,7 +1014,7 @@
             "open_issues": 76,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7155,
+            "stars": 7157,
             "topics": [
               "dynamic",
               "github",
@@ -1144,7 +1144,7 @@
             "open_issues": 11,
             "owner": "antonkomarev",
             "repo": "github-profile-views-counter",
-            "stars": 5035,
+            "stars": 5037,
             "topics": [
               "analytics",
               "counter",
@@ -1195,11 +1195,11 @@
             "id": 7910045,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T20:24:42Z",
+            "last_commit": "2026-10-02T16:19:54Z",
             "open_issues": 314,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27234,
+            "stars": 27235,
             "topics": [
               "badge",
               "badge-maker",
@@ -1228,7 +1228,7 @@
             "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17091,
+            "stars": 17092,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1274,7 +1274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:09:22.250Z",
+    "last_updated": "2026-10-03T05:09:22.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of thing you can add to your github readme profile",
