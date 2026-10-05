@@ -14,7 +14,7 @@
 | [![Dart](https://img.shields.io/static/v1?label=\&message=Dart\&color=52C0F2\&logo=dart\&logoColor=white)](https://dart.dev/)             | [![import\_sorter](https://img.shields.io/static/v1?label=\&message=import_sorter\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/fluttercommunity/import_sorter) ⭐ 183 \| 🐛 31 \| 🌐 Dart \| 📅 2024-03-16 [![Personal-Site](https://img.shields.io/static/v1?label=\&message=Personal-Site\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/Personal-Site) ⭐ 12 \| 🐛 0 \| 🌐 Dart \| 📅 2024-12-16 [![auralite-mobile](https://img.shields.io/static/v1?label=\&message=auralite-mobile%20%28WIP%29\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/auralite-mobile) ⭐ 8 \| 🐛 1 \| 🌐 Dart \| 📅 2020-08-10 |
 | [![Flutter](https://img.shields.io/static/v1?label=\&message=Flutter\&color=52C0F2\&logo=flutter\&logoColor=white)](https://flutter.dev/) | [![Personal-Site](https://img.shields.io/static/v1?label=\&message=Personal-Site\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/Personal-Site) ⭐ 12 \| 🐛 0 \| 🌐 Dart \| 📅 2024-12-16 [![auralite-mobile](https://img.shields.io/static/v1?label=\&message=auralite-mobile%20%28WIP%29\&color=000605\&logo=github\&logoColor=white\&labelColor=000605)](https://github.com/Matt-Gleich/auralite-mobile) ⭐ 8 \| 🐛 1 \| 🌐 Dart \| 📅 2020-08-10                                                                                                                                                                                                                                                  |
 
-### [All github metrics](https://github.com/lowlighter/metrics) ⭐ 17,257 | 🐛 71 | 🌐 JavaScript | 📅 2026-05-29 -  [lowlighter](https://github.com/lowlighter)
+### [All github metrics](https://github.com/lowlighter/metrics) ⭐ 17,266 | 🐛 71 | 🌐 JavaScript | 📅 2026-05-29 -  [lowlighter](https://github.com/lowlighter)
 
 An infographics generator with 30+ plugins and 200+ options to display stats
 
@@ -43,22 +43,22 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 
 ![preview](https://user-images.githubusercontent.com/8397274/87243943-e6b45c00-c457-11ea-94c9-2aa0bf241be8.png)
 
-### [Wakatime-stats](https://github.com/anmol098/waka-readme-stats) ⭐ 3,998 | 🐛 68 | 🌐 Python | 📅 2026-09-28 - [anmol098](https://github.com/anmol098)
+### [Wakatime-stats](https://github.com/anmol098/waka-readme-stats) ⭐ 3,998 | 🐛 69 | 🌐 Python | 📅 2026-09-28 - [anmol098](https://github.com/anmol098)
 
 ![preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
 
-### [Snake game from github user contributions graph](https://github.com/Platane/snk) ⭐ 6,109 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-29 - [Platane](https://github.com/Platane/)
+### [Snake game from github user contributions graph](https://github.com/Platane/snk) ⭐ 6,110 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-29 - [Platane](https://github.com/Platane/)
 
 ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
-### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) ⭐ 3,561 | 🐛 22 | 🌐 Zig | 📅 2026-10-04 - [jstrieb](https://github.com/jstrieb)
+### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) ⭐ 3,562 | 🐛 22 | 🌐 Zig | 📅 2026-10-05 - [jstrieb](https://github.com/jstrieb)
 
 <a href="https://github.com/jstrieb/github-stats">
 
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg) </a>
 
-### [Show recently activities](https://github.com/crazy-max/crazy-max) ⭐ 12 | 🐛 3 | 📅 2026-10-04 - [crazy-max](https://github.com/crazy-max)
+### [Show recently activities](https://github.com/crazy-max/crazy-max) ⭐ 12 | 🐛 3 | 📅 2026-10-05 - [crazy-max](https://github.com/crazy-max)
 
 #### Hi there 👋
 
@@ -123,13 +123,13 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 ![qt](https://terminal-shields.vercel.app/badge/qml-41CD52?logo=qt\&theme=amber)
 ![stars](https://terminal-shields.vercel.app/github/stars/seuthootDev/terminal-shields)
 
-### [Medium](https://github.com/bxcodec/github-readme-medium-recent-article) ⭐ 74 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-01 - [bxcodec](https://github.com/bxcodec/)
+### [Medium](https://github.com/bxcodec/github-readme-medium-recent-article) ⭐ 74 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-04 - [bxcodec](https://github.com/bxcodec/)
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0">
 
-### [Stats card](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,825 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01 - [anuraghazra](https://github.com/anuraghazra/)
+### [Stats card](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,827 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01 - [anuraghazra](https://github.com/anuraghazra/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,825 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,827 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01
 
 ### [GitHub Readme Zodiac](https://github.com/seuthootDev/github-readme-zodiac) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-22 - [seuthootDev](https://github.com/seuthootDev/)
 
@@ -169,7 +169,7 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 
 ![preview](https://raw.githubusercontent.com/magic-ike/spotify-data-card/master/docs/basic.svg)
 
-### [Show your Spotify playing](https://github.com/kittinan/spotify-github-profile) ⭐ 2,241 | 🐛 22 | 🌐 Python | 📅 2026-07-21 - [kittinan](https://github.com/kittinan/)
+### [Show your Spotify playing](https://github.com/kittinan/spotify-github-profile) ⭐ 2,245 | 🐛 22 | 🌐 Python | 📅 2026-07-21 - [kittinan](https://github.com/kittinan/)
 
 ![review](https://raw.githubusercontent.com/kittinan/spotify-github-profile/716a50d2d70dc32f034d30c3e544141a4f1ddec0/img/example.svg)
 
@@ -231,12 +231,12 @@ More info (<https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/>)
 
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
 
-### [Badge generator](https://github.com/badges/shields) ⭐ 27,237 | 🐛 316 | 🌐 JavaScript | 📅 2026-10-02
+### [Badge generator](https://github.com/badges/shields) ⭐ 27,241 | 🐛 317 | 🌐 JavaScript | 📅 2026-10-02
 
 ![](https://shields.io/badge/style-plastic-green?logo=appveyor\&style=plastic) ![](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)\
 ![](https://shields.io/badge/-yellowgreen-yellowgreen) ![](https://shields.io/badge/-orange-orange) ![](https://shields.io/badge/-blueviolet-blueviolet)
 
-### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) ⭐ 17,093 | 🐛 0 | 🌐 SCSS | 📅 2026-09-30 - [Ileriayo](https://github.com/Ileriayo)
+### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) ⭐ 17,094 | 🐛 0 | 🌐 SCSS | 📅 2026-09-30 - [Ileriayo](https://github.com/Ileriayo)
 
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />  <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
 
@@ -246,4 +246,4 @@ More info (<https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
