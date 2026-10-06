@@ -109,9 +109,9 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 
 ## ------------ GENERATIONS TOOLS ------------
 
-### [Profile trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,666 | 🐛 33 | 🌐 TypeScript | 📅 2026-07-25 - [ryo-ma](https://github.com/ryo-ma/)
+### [Profile trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,665 | 🐛 33 | 🌐 TypeScript | 📅 2026-07-25 - [ryo-ma](https://github.com/ryo-ma/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,666 | 🐛 33 | 🌐 TypeScript | 📅 2026-07-25
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,665 | 🐛 33 | 🌐 TypeScript | 📅 2026-07-25
 
 ### [Stackoverflow badge](https://github.com/omidnikrah/github-readme-stackoverflow) ⭐ 165 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-23 - [omidnikrah](https://github.com/omidnikrah/)
 
@@ -127,9 +127,9 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0">
 
-### [Stats card](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,826 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01 - [anuraghazra](https://github.com/anuraghazra/)
+### [Stats card](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,825 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01 - [anuraghazra](https://github.com/anuraghazra/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,826 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,825 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01
 
 ### [GitHub Readme Zodiac](https://github.com/seuthootDev/github-readme-zodiac) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-22 - [seuthootDev](https://github.com/seuthootDev/)
 
@@ -236,7 +236,7 @@ More info (<https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/>)
 ![](https://shields.io/badge/style-plastic-green?logo=appveyor\&style=plastic) ![](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)\
 ![](https://shields.io/badge/-yellowgreen-yellowgreen) ![](https://shields.io/badge/-orange-orange) ![](https://shields.io/badge/-blueviolet-blueviolet)
 
-### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) ⭐ 17,101 | 🐛 0 | 🌐 SCSS | 📅 2026-09-30 - [Ileriayo](https://github.com/Ileriayo)
+### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) ⭐ 17,102 | 🐛 0 | 🌐 SCSS | 📅 2026-09-30 - [Ileriayo](https://github.com/Ileriayo)
 
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />  <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
 
