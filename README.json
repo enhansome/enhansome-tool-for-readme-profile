@@ -126,7 +126,7 @@
             "open_issues": 71,
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17268,
+            "stars": 17269,
             "topics": [
               "automated",
               "automation",
@@ -259,7 +259,7 @@
             "open_issues": 3,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6119,
+            "stars": 6121,
             "topics": [
               "gif",
               "github-actions",
@@ -284,7 +284,7 @@
             "id": 287110655,
             "language": "Zig",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T05:41:07Z",
+            "last_commit": "2026-10-09T05:44:39Z",
             "open_issues": 22,
             "owner": "jstrieb",
             "repo": "github-stats",
@@ -433,7 +433,7 @@
             "id": 278751076,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-08T05:00:51Z",
+            "last_commit": "2026-10-09T05:04:53Z",
             "open_issues": 3,
             "owner": "crazy-max",
             "repo": "crazy-max",
@@ -519,10 +519,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-25T00:05:17Z",
-            "open_issues": 34,
+            "open_issues": 33,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6665,
+            "stars": 6664,
             "topics": [
               "deno",
               "github",
@@ -874,7 +874,7 @@
             "open_issues": 18,
             "owner": "kyechan99",
             "repo": "capsule-render",
-            "stars": 1839,
+            "stars": 1840,
             "topics": [
               "dynamic",
               "dynamic-profile",
@@ -967,7 +967,7 @@
             "open_issues": 22,
             "owner": "kittinan",
             "repo": "spotify-github-profile",
-            "stars": 2248,
+            "stars": 2249,
             "topics": [
               "github",
               "github-pages",
@@ -1010,11 +1010,11 @@
             "id": 307018731,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-25T09:04:26Z",
+            "last_commit": "2026-10-08T19:23:39Z",
             "open_issues": 77,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7162,
+            "stars": 7164,
             "topics": [
               "dynamic",
               "github",
@@ -1144,7 +1144,7 @@
             "open_issues": 11,
             "owner": "antonkomarev",
             "repo": "github-profile-views-counter",
-            "stars": 5044,
+            "stars": 5046,
             "topics": [
               "analytics",
               "counter",
@@ -1199,7 +1199,7 @@
             "open_issues": 317,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27246,
+            "stars": 27247,
             "topics": [
               "badge",
               "badge-maker",
@@ -1228,7 +1228,7 @@
             "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17101,
+            "stars": 17102,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1274,7 +1274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T06:37:35.696Z",
+    "last_updated": "2026-10-09T06:39:59.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of thing you can add to your github readme profile",
