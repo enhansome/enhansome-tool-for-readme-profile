@@ -126,7 +126,7 @@
             "open_issues": 71,
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17339,
+            "stars": 17342,
             "topics": [
               "automated",
               "automation",
@@ -164,7 +164,7 @@
             "open_issues": 1,
             "owner": "gautamkrishnar",
             "repo": "blog-post-workflow",
-            "stars": 3446,
+            "stars": 3445,
             "topics": [
               "activity",
               "blog",
@@ -203,7 +203,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-23T14:38:30Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "athul",
             "repo": "waka-readme",
             "stars": 1841,
@@ -231,7 +231,7 @@
             "open_issues": 72,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 4004,
+            "stars": 4005,
             "topics": [
               "awesome",
               "profile",
@@ -433,7 +433,7 @@
             "id": 278751076,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-29T04:49:04Z",
+            "last_commit": "2026-10-30T04:49:29Z",
             "open_issues": 3,
             "owner": "crazy-max",
             "repo": "crazy-max",
@@ -522,7 +522,7 @@
             "open_issues": 32,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6671,
+            "stars": 6670,
             "topics": [
               "deno",
               "github",
@@ -640,10 +640,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-01T01:02:55Z",
-            "open_issues": 296,
+            "open_issues": 297,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79855,
+            "stars": 79861,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -773,7 +773,7 @@
             "open_issues": 0,
             "owner": "seuthootDev",
             "repo": "github-readme-insight-terminal-ascii",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "ascii-art",
               "contribution-graph",
@@ -808,7 +808,7 @@
             "open_issues": 0,
             "owner": "arturssmirnovs",
             "repo": "github-profile-readme-generator",
-            "stars": 903,
+            "stars": 904,
             "topics": [
               "github",
               "github-readme",
@@ -1043,11 +1043,11 @@
             "id": 307018731,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-29T05:42:45Z",
-            "open_issues": 79,
+            "last_commit": "2026-10-29T07:18:04Z",
+            "open_issues": 80,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7185,
+            "stars": 7184,
             "topics": [
               "dynamic",
               "github",
@@ -1081,7 +1081,7 @@
             "open_issues": 23,
             "owner": "tipsy",
             "repo": "profile-summary-for-github",
-            "stars": 19934,
+            "stars": 19935,
             "topics": [
               "github-api",
               "javalin",
@@ -1232,7 +1232,7 @@
             "open_issues": 303,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27331,
+            "stars": 27337,
             "topics": [
               "badge",
               "badge-maker",
@@ -1261,7 +1261,7 @@
             "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17155,
+            "stars": 17162,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1307,7 +1307,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T06:25:33.702Z",
+    "last_updated": "2026-10-30T06:24:49.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of thing you can add to your github readme profile",
