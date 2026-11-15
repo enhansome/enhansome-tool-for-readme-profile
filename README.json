@@ -49,7 +49,7 @@
             "open_issues": 72,
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17395,
+            "stars": 17407,
             "topics": [
               "automated",
               "automation",
@@ -83,7 +83,7 @@
             "id": 287110655,
             "language": "Zig",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T05:56:59Z",
+            "last_commit": "2026-11-15T05:57:41Z",
             "open_issues": 23,
             "owner": "jstrieb",
             "repo": "github-stats",
@@ -126,7 +126,7 @@
                 "open_issues": 299,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79844,
+                "stars": 79840,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -151,7 +151,7 @@
             "open_issues": 40,
             "owner": "stats-organization",
             "repo": "github-stats-extended",
-            "stars": 1701,
+            "stars": 1703,
             "topics": []
           },
           "title": "GitHub Stats Extended - stats-organization",
@@ -205,7 +205,7 @@
             "open_issues": 79,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7211,
+            "stars": 7213,
             "topics": [
               "dynamic",
               "github",
@@ -273,7 +273,7 @@
             "open_issues": 3,
             "owner": "athul",
             "repo": "waka-readme",
-            "stars": 1838,
+            "stars": 1839,
             "topics": [
               "profile-page",
               "readme",
@@ -298,7 +298,7 @@
             "open_issues": 74,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 4008,
+            "stars": 4009,
             "topics": [
               "awesome",
               "profile",
@@ -322,7 +322,7 @@
             "id": 1183098098,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T05:20:01Z",
+            "last_commit": "2026-11-14T21:45:21Z",
             "open_issues": 0,
             "owner": "seuthootDev",
             "repo": "github-readme-insight-terminal-ascii",
@@ -430,7 +430,7 @@
             "open_issues": 0,
             "owner": "gautamkrishnar",
             "repo": "blog-post-workflow",
-            "stars": 3454,
+            "stars": 3453,
             "topics": [
               "activity",
               "blog",
@@ -655,7 +655,7 @@
             "open_issues": 24,
             "owner": "kittinan",
             "repo": "spotify-github-profile",
-            "stars": 2277,
+            "stars": 2276,
             "topics": [
               "github",
               "github-pages",
@@ -849,7 +849,7 @@
             "open_issues": 15,
             "owner": "antonkomarev",
             "repo": "github-profile-views-counter",
-            "stars": 5074,
+            "stars": 5076,
             "topics": [
               "analytics",
               "counter",
@@ -879,11 +879,11 @@
             "id": 7910045,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T12:40:44Z",
-            "open_issues": 298,
+            "last_commit": "2026-11-14T16:36:06Z",
+            "open_issues": 297,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27395,
+            "stars": 27400,
             "topics": [
               "badge",
               "badge-maker",
@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17185,
+            "stars": 17190,
             "topics": [
               "badges-markdown",
               "branding",
@@ -940,7 +940,7 @@
             "open_issues": 0,
             "owner": "seuthootDev",
             "repo": "terminal-shields",
-            "stars": 1,
+            "stars": 3,
             "topics": [
               "badge",
               "badges",
@@ -1208,11 +1208,11 @@
             "id": 1322542016,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T05:40:31Z",
+            "last_commit": "2026-11-14T21:46:36Z",
             "open_issues": 0,
             "owner": "seuthootDev",
             "repo": "github-readme-zodiac",
-            "stars": 1,
+            "stars": 3,
             "topics": [
               "astrology",
               "github-actions",
@@ -1243,11 +1243,11 @@
             "id": 1322637759,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T05:40:28Z",
+            "last_commit": "2026-11-14T21:46:32Z",
             "open_issues": 0,
             "owner": "seuthootDev",
             "repo": "github-readme-chinese-zodiac",
-            "stars": 1,
+            "stars": 3,
             "topics": [
               "asian-zodiac",
               "chinese-zodiac",
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T06:59:25.707Z",
+    "last_updated": "2026-11-15T07:09:06.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "Things you can add to your GitHub profile README",
