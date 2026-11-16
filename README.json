@@ -49,7 +49,7 @@
             "open_issues": 72,
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17407,
+            "stars": 17419,
             "topics": [
               "automated",
               "automation",
@@ -83,7 +83,7 @@
             "id": 287110655,
             "language": "Zig",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-15T05:57:41Z",
+            "last_commit": "2026-11-16T05:58:35Z",
             "open_issues": 23,
             "owner": "jstrieb",
             "repo": "github-stats",
@@ -126,7 +126,7 @@
                 "open_issues": 299,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79840,
+                "stars": 79842,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -147,11 +147,11 @@
             "id": 985918780,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T00:48:44Z",
-            "open_issues": 40,
+            "last_commit": "2026-11-16T02:24:32Z",
+            "open_issues": 41,
             "owner": "stats-organization",
             "repo": "github-stats-extended",
-            "stars": 1703,
+            "stars": 1712,
             "topics": []
           },
           "title": "GitHub Stats Extended - stats-organization",
@@ -205,7 +205,7 @@
             "open_issues": 79,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7213,
+            "stars": 7212,
             "topics": [
               "dynamic",
               "github",
@@ -236,10 +236,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-27T10:11:32Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6687,
+            "stars": 6686,
             "topics": [
               "deno",
               "github",
@@ -849,7 +849,7 @@
             "open_issues": 15,
             "owner": "antonkomarev",
             "repo": "github-profile-views-counter",
-            "stars": 5076,
+            "stars": 5078,
             "topics": [
               "analytics",
               "counter",
@@ -880,10 +880,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T16:36:06Z",
-            "open_issues": 297,
+            "open_issues": 299,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27400,
+            "stars": 27404,
             "topics": [
               "badge",
               "badge-maker",
@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17190,
+            "stars": 17194,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1056,7 +1056,7 @@
             "open_issues": 3,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6181,
+            "stars": 6180,
             "topics": [
               "gif",
               "github-actions",
@@ -1318,7 +1318,7 @@
             "open_issues": 23,
             "owner": "tipsy",
             "repo": "profile-summary-for-github",
-            "stars": 19938,
+            "stars": 19939,
             "topics": [
               "github-api",
               "javalin",
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:09:06.087Z",
+    "last_updated": "2026-11-16T07:14:06.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "Things you can add to your GitHub profile README",
@@ -1346,7 +1346,7 @@
       "open_issues": 1,
       "owner": "haidang666",
       "repo": "awesome-tool-for-readme-profile",
-      "stars": 316,
+      "stars": 315,
       "topics": [
         "awesome-list",
         "github-actions",
