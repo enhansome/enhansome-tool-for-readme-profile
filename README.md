@@ -29,7 +29,7 @@ Every entry is tagged by how it runs:
 [![Profile details card](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,701 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-05\
 ![Productive time card](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
 
-### [All GitHub metrics](https://github.com/lowlighter/metrics) ⭐ 17,465 | 🐛 72 | 🌐 JavaScript | 📅 2026-05-29 - [lowlighter](https://github.com/lowlighter)
+### [All GitHub metrics](https://github.com/lowlighter/metrics) ⭐ 17,463 | 🐛 73 | 🌐 JavaScript | 📅 2026-05-29 - [lowlighter](https://github.com/lowlighter)
 
 `GitHub Action` An infographics generator with 30+ plugins and 300+ options to display stats about your account or organization.
 
@@ -48,21 +48,21 @@ Every entry is tagged by how it runs:
   </tr>
 </table>
 
-### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) ⭐ 3,564 | 🐛 23 | 🌐 Zig | 📅 2026-11-19 - [jstrieb](https://github.com/jstrieb)
+### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) ⭐ 3,565 | 🐛 23 | 🌐 Zig | 📅 2026-11-20 - [jstrieb](https://github.com/jstrieb)
 
 `GitHub Action` Overview and language cards that can include stats from your private repos.
 
-[![GitHub stats overview](https://raw.githubusercontent.com/jstrieb/github-stats/generated/overview.svg)](https://github.com/jstrieb/github-stats) ⭐ 3,564 | 🐛 23 | 🌐 Zig | 📅 2026-11-19
-[![GitHub stats languages](https://raw.githubusercontent.com/jstrieb/github-stats/generated/languages.svg)](https://github.com/jstrieb/github-stats) ⭐ 3,564 | 🐛 23 | 🌐 Zig | 📅 2026-11-19
+[![GitHub stats overview](https://raw.githubusercontent.com/jstrieb/github-stats/generated/overview.svg)](https://github.com/jstrieb/github-stats) ⭐ 3,565 | 🐛 23 | 🌐 Zig | 📅 2026-11-20
+[![GitHub stats languages](https://raw.githubusercontent.com/jstrieb/github-stats/generated/languages.svg)](https://github.com/jstrieb/github-stats) ⭐ 3,565 | 🐛 23 | 🌐 Zig | 📅 2026-11-20
 
-### [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) ⭐ 1,728 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-18 - [stats-organization](https://github.com/stats-organization)
+### [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) ⭐ 1,733 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-18 - [stats-organization](https://github.com/stats-organization)
 
-`Hosted API` The maintained successor to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,837 | 🐛 299 | 🌐 JavaScript | 📅 2026-10-01: stats, top languages, WakaTime and other cards, with themes.
+`Hosted API` The maintained successor to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,833 | 🐛 299 | 🌐 JavaScript | 📅 2026-10-01: stats, top languages, WakaTime and other cards, with themes.
 
 > \[!IMPORTANT]
-> [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,837 | 🐛 299 | 🌐 JavaScript | 📅 2026-10-01 is no longer maintained, and its public instance at `github-readme-stats.vercel.app` is best-effort. Its README now points to GitHub Stats Extended. To migrate, change the domain to `github-stats-extended.vercel.app`. If you don't want to depend on a public instance at all, use [github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) ⭐ 331 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-18.
+> [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,833 | 🐛 299 | 🌐 JavaScript | 📅 2026-10-01 is no longer maintained, and its public instance at `github-readme-stats.vercel.app` is best-effort. Its README now points to GitHub Stats Extended. To migrate, change the domain to `github-stats-extended.vercel.app`. If you don't want to depend on a public instance at all, use [github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) ⭐ 331 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-19.
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended) ⭐ 1,728 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-18
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended) ⭐ 1,733 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-18
 
 ### [gh-stats](https://github.com/ShayManor/github-readme-stats) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-10-09 - [ShayManor](https://github.com/ShayManor/)
 
@@ -70,11 +70,11 @@ Every entry is tagged by how it runs:
 
 [![gh-stats card](https://gh-stats.com/?username=ShayManor)](https://github.com/ShayManor/github-readme-stats) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-10-09
 
-### [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,212 | 🐛 79 | 🌐 PHP | 📅 2026-11-18 - [DenverCoder1](https://github.com/DenverCoder1/)
+### [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,214 | 🐛 79 | 🌐 PHP | 📅 2026-11-18 - [DenverCoder1](https://github.com/DenverCoder1/)
 
 `Hosted API` Your total contributions, current streak and longest streak.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1\&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,212 | 🐛 79 | 🌐 PHP | 📅 2026-11-18
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1\&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,214 | 🐛 79 | 🌐 PHP | 📅 2026-11-18
 
 ### [Profile trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,685 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-27 - [ryo-ma](https://github.com/ryo-ma/)
 
@@ -91,7 +91,7 @@ Every entry is tagged by how it runs:
 
 ![preview](https://user-images.githubusercontent.com/8397274/87243943-e6b45c00-c457-11ea-94c9-2aa0bf241be8.png)
 
-### [Wakatime-stats](https://github.com/anmol098/waka-readme-stats) ⭐ 4,012 | 🐛 75 | 🌐 Python | 📅 2026-11-16 - [anmol098](https://github.com/anmol098)
+### [Wakatime-stats](https://github.com/anmol098/waka-readme-stats) ⭐ 4,012 | 🐛 76 | 🌐 Python | 📅 2026-11-16 - [anmol098](https://github.com/anmol098)
 
 `GitHub Action` Dev metrics from WakaTime and GitHub: when you code, languages, editors, projects and more.
 
@@ -144,7 +144,7 @@ Every entry is tagged by how it runs:
 
 <img src="https://raw.githubusercontent.com/muesli/readme-scribe/master/assets/template_example.png" width="600" alt="readme-scribe example output">
 
-### [YouTube Cards](https://github.com/DenverCoder1/github-readme-youtube-cards) ⭐ 290 | 🐛 5 | 🌐 Python | 📅 2026-11-16 - [DenverCoder1](https://github.com/DenverCoder1)
+### [YouTube Cards](https://github.com/DenverCoder1/github-readme-youtube-cards) ⭐ 291 | 🐛 5 | 🌐 Python | 📅 2026-11-16 - [DenverCoder1](https://github.com/DenverCoder1)
 
 `GitHub Action` Your latest YouTube videos as cards that update automatically.
 
@@ -228,20 +228,20 @@ Every entry is tagged by how it runs:
 
 ## Badges and counters
 
-### [Profile views counter](https://github.com/antonkomarev/github-profile-views-counter) ⭐ 5,079 | 🐛 15 | 🌐 PHP | 📅 2026-11-18 - [antonkomarev](https://github.com/antonkomarev/)
+### [Profile views counter](https://github.com/antonkomarev/github-profile-views-counter) ⭐ 5,078 | 🐛 15 | 🌐 PHP | 📅 2026-11-18 - [antonkomarev](https://github.com/antonkomarev/)
 
 `Hosted API` Counts how many times your profile has been viewed.
 
 ![Profile views](https://komarev.com/ghpvc/?username=haidang666\&color=blue)
 
-### [Badge generator](https://github.com/badges/shields) ⭐ 27,413 | 🐛 302 | 🌐 JavaScript | 📅 2026-11-14 - [Shields.io](https://shields.io/)
+### [Badge generator](https://github.com/badges/shields) ⭐ 27,416 | 🐛 302 | 🌐 JavaScript | 📅 2026-11-14 - [Shields.io](https://shields.io/)
 
 `Hosted API` Badges for almost anything, in several styles.
 
 ![badge](https://shields.io/badge/style-plastic-green?logo=appveyor\&style=plastic) ![badge](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)\
 ![badge](https://shields.io/badge/-yellowgreen-yellowgreen) ![badge](https://shields.io/badge/-orange-orange) ![badge](https://shields.io/badge/-blueviolet-blueviolet)
 
-### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) ⭐ 17,208 | 🐛 0 | 🌐 SCSS | 📅 2026-10-23 - [Ileriayo](https://github.com/Ileriayo)
+### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) ⭐ 17,210 | 🐛 0 | 🌐 SCSS | 📅 2026-10-23 - [Ileriayo](https://github.com/Ileriayo)
 
 `Hosted API` A large collection of ready-made Shields.io badges for languages, tools and social links, ready to copy.
 
@@ -287,13 +287,13 @@ Every entry is tagged by how it runs:
 
 ## Fun
 
-### [Snake game from github user contributions graph](https://github.com/Platane/snk) ⭐ 6,190 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-17 - [Platane](https://github.com/Platane/)
+### [Snake game from github user contributions graph](https://github.com/Platane/snk) ⭐ 6,191 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-17 - [Platane](https://github.com/Platane/)
 
 `GitHub Action` A snake that eats your contribution graph, as an animated SVG or GIF.
 
 ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
-### [Git Ship](https://github.com/PingPongPlus/git-ship) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - [PingPongPlus](https://github.com/PingPongPlus/)
+### [Git Ship](https://github.com/PingPongPlus/git-ship) - [PingPongPlus](https://github.com/PingPongPlus/)
 
 `GitHub Action` Turn your commits into animated pixel-art ships that automatically update in your profile README.
 
@@ -301,7 +301,7 @@ Every entry is tagged by how it runs:
   <img src="https://raw.githubusercontent.com/PingPongPlus/git-ship/ecaa7c29f691c6952a870446f52b36ada00fc374/examples/huge-demo/git-ship.gif" width="800" height="320" alt="Git Ship demo with language logos and rain">
 </a>
 
-### [Git Jet](https://github.com/PingPongPlus/git-jet) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-11-16 - [PingPongPlus](https://github.com/PingPongPlus/)
+### [Git Jet](https://github.com/PingPongPlus/git-jet) - [PingPongPlus](https://github.com/PingPongPlus/)
 
 `GitHub Action` Launch pixel-art jets from a carrier to clear active days on your commit calendar, updated in your profile README.
 
@@ -315,7 +315,7 @@ Every entry is tagged by how it runs:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-### [Dynamic quote generator for your GitHub readmes](https://github.com/zhravan/github-readme-quotes) ⭐ 307 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-27 - [zhravan](https://github.com/zhravan/)
+### [Dynamic quote generator for your GitHub readmes](https://github.com/zhravan/github-readme-quotes) ⭐ 306 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-27 - [zhravan](https://github.com/zhravan/)
 
 `Hosted API` A random quote card, with themes. The service moved from Heroku to Vercel, so old `herokuapp.com` URLs no longer work.
 
@@ -355,4 +355,4 @@ Suggestions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) first: it cover
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

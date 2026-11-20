@@ -46,10 +46,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-05-29T21:41:23Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "lowlighter",
             "repo": "metrics",
-            "stars": 17465,
+            "stars": 17463,
             "topics": [
               "automated",
               "automation",
@@ -83,11 +83,11 @@
             "id": 287110655,
             "language": "Zig",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-19T06:59:06Z",
+            "last_commit": "2026-11-20T06:51:02Z",
             "open_issues": 23,
             "owner": "jstrieb",
             "repo": "github-stats",
-            "stars": 3564,
+            "stars": 3565,
             "topics": [
               "git-scraping",
               "github",
@@ -126,7 +126,7 @@
                 "open_issues": 299,
                 "owner": "anuraghazra",
                 "repo": "github-readme-stats",
-                "stars": 79837,
+                "stars": 79833,
                 "topics": [
                   "dynamic",
                   "profile-readme",
@@ -151,7 +151,7 @@
             "open_issues": 44,
             "owner": "stats-organization",
             "repo": "github-stats-extended",
-            "stars": 1728,
+            "stars": 1733,
             "topics": []
           },
           "title": "GitHub Stats Extended - stats-organization",
@@ -205,7 +205,7 @@
             "open_issues": 79,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7212,
+            "stars": 7214,
             "topics": [
               "dynamic",
               "github",
@@ -295,7 +295,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-16T13:43:13Z",
-            "open_issues": 75,
+            "open_issues": 76,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
             "stars": 4012,
@@ -521,7 +521,7 @@
             "open_issues": 5,
             "owner": "DenverCoder1",
             "repo": "github-readme-youtube-cards",
-            "stars": 290,
+            "stars": 291,
             "topics": [
               "dynamic",
               "github",
@@ -849,7 +849,7 @@
             "open_issues": 15,
             "owner": "antonkomarev",
             "repo": "github-profile-views-counter",
-            "stars": 5079,
+            "stars": 5078,
             "topics": [
               "analytics",
               "counter",
@@ -883,7 +883,7 @@
             "open_issues": 302,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27413,
+            "stars": 27416,
             "topics": [
               "badge",
               "badge-maker",
@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17208,
+            "stars": 17210,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1053,10 +1053,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-11-17T00:39:09Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6190,
+            "stars": 6191,
             "topics": [
               "gif",
               "github-actions",
@@ -1069,66 +1069,6 @@
           },
           "title": "Snake game from github user contributions graph - Platane",
           "first_seen": "2026-08-28T12:11:48.538Z"
-        },
-        {
-          "children": [],
-          "description": "Turn your commits into animated pixel-art ships that automatically update in your profile README.",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A little lighthouse for you. A cargo fleet for your languages. What did you ship?",
-            "homepage": null,
-            "id": 1441145456,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-05T00:55:34Z",
-            "open_issues": 0,
-            "owner": "PingPongPlus",
-            "repo": "git-ship",
-            "stars": 5,
-            "topics": [
-              "github",
-              "github-actions",
-              "python",
-              "reamde",
-              "reamde-action",
-              "ship",
-              "shipping"
-            ]
-          },
-          "title": "Git Ship - PingPongPlus",
-          "first_seen": "2026-11-03T07:12:53.055Z"
-        },
-        {
-          "children": [],
-          "description": "Launch pixel-art jets from a carrier to clear active days on your commit calendar, updated in your profile README.",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A jet that shoots and destroys your GitHub commit history!",
-            "homepage": null,
-            "id": 1442263923,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-16T23:27:26Z",
-            "open_issues": 0,
-            "owner": "PingPongPlus",
-            "repo": "git-jet",
-            "stars": 12,
-            "topics": [
-              "git",
-              "github-actions",
-              "jet",
-              "python",
-              "python3",
-              "readme",
-              "tuff",
-              "utility",
-              "worflows"
-            ]
-          },
-          "title": "Git Jet - PingPongPlus",
-          "first_seen": "2026-11-04T06:57:14.895Z"
         },
         {
           "children": [],
@@ -1173,7 +1113,7 @@
             "open_issues": 45,
             "owner": "zhravan",
             "repo": "github-readme-quotes",
-            "stars": 307,
+            "stars": 306,
             "topics": [
               "express",
               "first-timers",
@@ -1334,7 +1274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T07:53:40.713Z",
+    "last_updated": "2026-11-20T07:43:18.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "Things you can add to your GitHub profile README",
@@ -1343,10 +1283,10 @@
       "language": null,
       "license": "Unlicense",
       "last_commit": "2026-11-03T07:57:23Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "haidang666",
       "repo": "awesome-tool-for-readme-profile",
-      "stars": 315,
+      "stars": 317,
       "topics": [
         "awesome-list",
         "github-actions",
