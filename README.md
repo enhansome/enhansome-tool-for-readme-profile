@@ -22,14 +22,14 @@ Every entry is tagged by how it runs:
 
 ## Stats and metrics
 
-### [profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,704 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-05 - [vn7n24fzkq](https://github.com/vn7n24fzkq/)
+### [profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,706 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-05 - [vn7n24fzkq](https://github.com/vn7n24fzkq/)
 
 `GitHub Action` Summary cards for your profile details, top languages, commit times and more.
 
-[![Profile details card](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,704 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-05\
+[![Profile details card](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) ⭐ 3,706 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-05\
 ![Productive time card](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
 
-### [All GitHub metrics](https://github.com/lowlighter/metrics) ⭐ 17,483 | 🐛 73 | 🌐 JavaScript | 📅 2026-05-29 - [lowlighter](https://github.com/lowlighter)
+### [All GitHub metrics](https://github.com/lowlighter/metrics) ⭐ 17,485 | 🐛 73 | 🌐 JavaScript | 📅 2026-05-29 - [lowlighter](https://github.com/lowlighter)
 
 `GitHub Action` An infographics generator with 30+ plugins and 300+ options to display stats about your account or organization.
 
@@ -48,21 +48,21 @@ Every entry is tagged by how it runs:
   </tr>
 </table>
 
-### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) ⭐ 3,567 | 🐛 23 | 🌐 Zig | 📅 2026-11-25 - [jstrieb](https://github.com/jstrieb)
+### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) ⭐ 3,568 | 🐛 23 | 🌐 Zig | 📅 2026-11-26 - [jstrieb](https://github.com/jstrieb)
 
 `GitHub Action` Overview and language cards that can include stats from your private repos.
 
-[![GitHub stats overview](https://raw.githubusercontent.com/jstrieb/github-stats/generated/overview.svg)](https://github.com/jstrieb/github-stats) ⭐ 3,567 | 🐛 23 | 🌐 Zig | 📅 2026-11-25
-[![GitHub stats languages](https://raw.githubusercontent.com/jstrieb/github-stats/generated/languages.svg)](https://github.com/jstrieb/github-stats) ⭐ 3,567 | 🐛 23 | 🌐 Zig | 📅 2026-11-25
+[![GitHub stats overview](https://raw.githubusercontent.com/jstrieb/github-stats/generated/overview.svg)](https://github.com/jstrieb/github-stats) ⭐ 3,568 | 🐛 23 | 🌐 Zig | 📅 2026-11-26
+[![GitHub stats languages](https://raw.githubusercontent.com/jstrieb/github-stats/generated/languages.svg)](https://github.com/jstrieb/github-stats) ⭐ 3,568 | 🐛 23 | 🌐 Zig | 📅 2026-11-26
 
-### [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) ⭐ 1,752 | 🐛 58 | 🌐 TypeScript | 📅 2026-11-25 - [stats-organization](https://github.com/stats-organization)
+### [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) ⭐ 1,755 | 🐛 58 | 🌐 TypeScript | 📅 2026-11-25 - [stats-organization](https://github.com/stats-organization)
 
-`Hosted API` The maintained successor to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,834 | 🐛 297 | 🌐 JavaScript | 📅 2026-10-01: stats, top languages, WakaTime and other cards, with themes.
+`Hosted API` The maintained successor to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,839 | 🐛 297 | 🌐 JavaScript | 📅 2026-10-01: stats, top languages, WakaTime and other cards, with themes.
 
 > \[!IMPORTANT]
-> [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,834 | 🐛 297 | 🌐 JavaScript | 📅 2026-10-01 is no longer maintained, and its public instance at `github-readme-stats.vercel.app` is best-effort. Its README now points to GitHub Stats Extended. To migrate, change the domain to `github-stats-extended.vercel.app`. If you don't want to depend on a public instance at all, use [github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) ⭐ 333 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-23.
+> [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,839 | 🐛 297 | 🌐 JavaScript | 📅 2026-10-01 is no longer maintained, and its public instance at `github-readme-stats.vercel.app` is best-effort. Its README now points to GitHub Stats Extended. To migrate, change the domain to `github-stats-extended.vercel.app`. If you don't want to depend on a public instance at all, use [github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) ⭐ 333 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-25.
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended) ⭐ 1,752 | 🐛 58 | 🌐 TypeScript | 📅 2026-11-25
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended) ⭐ 1,755 | 🐛 58 | 🌐 TypeScript | 📅 2026-11-25
 
 ### [gh-stats](https://github.com/ShayManor/github-readme-stats) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-10-09 - [ShayManor](https://github.com/ShayManor/)
 
@@ -70,13 +70,13 @@ Every entry is tagged by how it runs:
 
 [![gh-stats card](https://gh-stats.com/?username=ShayManor)](https://github.com/ShayManor/github-readme-stats) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-10-09
 
-### [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,217 | 🐛 78 | 🌐 PHP | 📅 2026-11-23 - [DenverCoder1](https://github.com/DenverCoder1/)
+### [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,220 | 🐛 78 | 🌐 PHP | 📅 2026-11-26 - [DenverCoder1](https://github.com/DenverCoder1/)
 
 `Hosted API` Your total contributions, current streak and longest streak.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1\&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,217 | 🐛 78 | 🌐 PHP | 📅 2026-11-23
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1\&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,220 | 🐛 78 | 🌐 PHP | 📅 2026-11-26
 
-### [Wakatime Weekly Metrics](https://github.com/athul/waka-readme) ⭐ 1,839 | 🐛 2 | 🌐 Python | 📅 2026-10-23 - [athul](https://github.com/athul/)
+### [Wakatime Weekly Metrics](https://github.com/athul/waka-readme) ⭐ 1,841 | 🐛 2 | 🌐 Python | 📅 2026-10-23 - [athul](https://github.com/athul/)
 
 `GitHub Action` Your weekly WakaTime coding stats as a text block in your README.
 
@@ -88,11 +88,11 @@ Every entry is tagged by how it runs:
 
 ![preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
 
-### [GitHub README Insight Terminal ASCII](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-25 - [seuthootDev](https://github.com/seuthootDev/)
+### [GitHub README Insight Terminal ASCII](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) ⭐ 20 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-26 - [seuthootDev](https://github.com/seuthootDev/)
 
 `Hosted API` Your contribution graph as a terminal-style ASCII SVG.
 
-[![Contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev\&theme=mac\&scale=0.6)](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-25
+[![Contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev\&theme=mac\&scale=0.6)](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) ⭐ 20 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-26
 
 ### [Stackoverflow badge](https://github.com/omidnikrah/github-readme-stackoverflow) ⭐ 165 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-23 - [omidnikrah](https://github.com/omidnikrah/)
 
@@ -126,7 +126,7 @@ Every entry is tagged by how it runs:
 
 <img src="https://raw.githubusercontent.com/muesli/readme-scribe/master/assets/template_example.png" width="600" alt="readme-scribe example output">
 
-### [YouTube Cards](https://github.com/DenverCoder1/github-readme-youtube-cards) ⭐ 291 | 🐛 5 | 🌐 Python | 📅 2026-11-16 - [DenverCoder1](https://github.com/DenverCoder1)
+### [YouTube Cards](https://github.com/DenverCoder1/github-readme-youtube-cards) ⭐ 292 | 🐛 5 | 🌐 Python | 📅 2026-11-16 - [DenverCoder1](https://github.com/DenverCoder1)
 
 `GitHub Action` Your latest YouTube videos as cards that update automatically.
 
@@ -171,7 +171,7 @@ Every entry is tagged by how it runs:
 
 ![preview](https://raw.githubusercontent.com/magic-ike/spotify-data-card/master/docs/basic.svg)
 
-### [Show your Spotify playing](https://github.com/kittinan/spotify-github-profile) ⭐ 2,285 | 🐛 25 | 🌐 Python | 📅 2026-10-13 - [kittinan](https://github.com/kittinan/)
+### [Show your Spotify playing](https://github.com/kittinan/spotify-github-profile) ⭐ 2,288 | 🐛 25 | 🌐 Python | 📅 2026-10-13 - [kittinan](https://github.com/kittinan/)
 
 `Hosted API` `Self-host` The song you're playing on Spotify right now.
 
@@ -179,7 +179,7 @@ Every entry is tagged by how it runs:
 
 ## Headers and decoration
 
-### [Capsule render](https://github.com/kyechan99/capsule-render) ⭐ 1,860 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-11 - [kyechan99](https://github.com/kyechan99)
+### [Capsule render](https://github.com/kyechan99/capsule-render) ⭐ 1,861 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-11 - [kyechan99](https://github.com/kyechan99)
 
 `Hosted API` Animated header and footer banners with your own text.
 
@@ -196,20 +196,20 @@ Every entry is tagged by how it runs:
 
 ## Badges and counters
 
-### [Profile views counter](https://github.com/antonkomarev/github-profile-views-counter) ⭐ 5,082 | 🐛 15 | 🌐 PHP | 📅 2026-11-18 - [antonkomarev](https://github.com/antonkomarev/)
+### [Profile views counter](https://github.com/antonkomarev/github-profile-views-counter) ⭐ 5,085 | 🐛 15 | 🌐 PHP | 📅 2026-11-18 - [antonkomarev](https://github.com/antonkomarev/)
 
 `Hosted API` Counts how many times your profile has been viewed.
 
 ![Profile views](https://komarev.com/ghpvc/?username=haidang666\&color=blue)
 
-### [Badge generator](https://github.com/badges/shields) ⭐ 27,430 | 🐛 300 | 🌐 JavaScript | 📅 2026-11-22 - [Shields.io](https://shields.io/)
+### [Badge generator](https://github.com/badges/shields) ⭐ 27,436 | 🐛 300 | 🌐 JavaScript | 📅 2026-11-22 - [Shields.io](https://shields.io/)
 
 `Hosted API` Badges for almost anything, in several styles.
 
 ![badge](https://shields.io/badge/style-plastic-green?logo=appveyor\&style=plastic) ![badge](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)\
 ![badge](https://shields.io/badge/-yellowgreen-yellowgreen) ![badge](https://shields.io/badge/-orange-orange) ![badge](https://shields.io/badge/-blueviolet-blueviolet)
 
-### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) ⭐ 17,218 | 🐛 0 | 🌐 SCSS | 📅 2026-10-23 - [Ileriayo](https://github.com/Ileriayo)
+### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) ⭐ 17,222 | 🐛 0 | 🌐 SCSS | 📅 2026-10-23 - [Ileriayo](https://github.com/Ileriayo)
 
 `Hosted API` A large collection of ready-made Shields.io badges for languages, tools and social links, ready to copy.
 
@@ -249,19 +249,19 @@ Every entry is tagged by how it runs:
 
 ## Fun
 
-### [Snake game from github user contributions graph](https://github.com/Platane/snk) ⭐ 6,203 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-17 - [Platane](https://github.com/Platane/)
+### [Snake game from github user contributions graph](https://github.com/Platane/snk) ⭐ 6,205 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-17 - [Platane](https://github.com/Platane/)
 
 `GitHub Action` A snake that eats your contribution graph, as an animated SVG or GIF.
 
 ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
-### [Contribution FX](https://github.com/Sur1ive/contribution-fx) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-25 - [Sur1ive](https://github.com/Sur1ive)
+### [Contribution FX](https://github.com/Sur1ive/contribution-fx) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-26 - [Sur1ive](https://github.com/Sur1ive)
 
 `GitHub Action` Turn your contribution graph into animated SVG art: candlestick charts, Game of Life, neon, constellations and more.
 
 ![Contribution FX](https://raw.githubusercontent.com/Sur1ive/contribution-fx/main/examples/fx2-light.svg)
 
-### [Readme Jokes](https://github.com/ABSphreak/readme-jokes) ⭐ 714 | 🐛 15 | 🌐 JavaScript | 📅 2025-02-02 - [ABSphreak](https://github.com/ABSphreak)
+### [Readme Jokes](https://github.com/ABSphreak/readme-jokes) ⭐ 715 | 🐛 15 | 🌐 JavaScript | 📅 2025-02-02 - [ABSphreak](https://github.com/ABSphreak)
 
 `Hosted API` A random programming joke.
 
@@ -289,7 +289,7 @@ Every entry is tagged by how it runs:
 
 These help you build or explore a profile, but you can't embed them in a README.
 
-### [ReadmeCraft](https://github.com/ErBharatMalhotra/readmecraft) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - [ErBharatMalhotra](https://github.com/ErBharatMalhotra/)
+### [ReadmeCraft](https://github.com/ErBharatMalhotra/readmecraft) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - [ErBharatMalhotra](https://github.com/ErBharatMalhotra/)
 
 `Website` Dual-mode GitHub README studio with 41 self-rendered SVG badges, 63 themes, and 16 persona templates. Generates profile and repo READMEs from live GitHub data. Live at [readme.bharatdn.com](https://readme.bharatdn.com).
 
@@ -299,7 +299,7 @@ These help you build or explore a profile, but you can't embed them in a README.
 
 ![Github readme generator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/gif.gif?v=123)
 
-### [Profile Summary](https://github.com/tipsy/profile-summary-for-github) ⭐ 19,942 | 🐛 23 | 🌐 Vue | 📅 2026-02-22 - [tipsy](https://github.com/tipsy/)
+### [Profile Summary](https://github.com/tipsy/profile-summary-for-github) ⭐ 19,943 | 🐛 23 | 🌐 Vue | 📅 2026-02-22 - [tipsy](https://github.com/tipsy/)
 
 `Website` Visualizes any GitHub profile: languages, commits per repo, stars and more. It renders a page on [profile-summary-for-github.com](https://profile-summary-for-github.com/search), not an image.
 
@@ -311,4 +311,4 @@ Suggestions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) first: it cover
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
